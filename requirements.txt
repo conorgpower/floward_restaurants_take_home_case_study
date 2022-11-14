@@ -3,3 +3,10 @@ pandas_profiling
 ipywidgets
 xgboost
 category_encoders
+seaborn
+matplotlib
+catboost
+sklearn
+scipy
+numpy
+optuna
