@@ -64,6 +64,7 @@ ProfileReport package was used to give a very deep breakdown of all the data.
 **Potential Applications**
 
 Using existing maps technology and geolocation information about the delivery drivers a system could be built to check how far away each delivery driver is. Depending on their distance away the orders could be re-organized in order of priority to avoid having drivers waiting for meals at the restaurant while other drivers' food delivery is ready and cooked while the driver is not ready. Joining these two systems so that they are aligned could deliver additional efficiency.<br/>
+
 Delivery is a seperate problem and the driver is limited by external factors such as traffic and speed limits, therefore, I believe much of the efficiency improvement here can be garnered by improving the time between the order accepted and delivery driver departing. Most the this can be achieved by having two system in communication between the driver and restaurant.
 
 ---
