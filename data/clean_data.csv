@@ -44,7 +44,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-01 19:06:53.985624+01:00,12.75,2276,3,830,UK,London,healthy
 2015-06-02 13:21:47.494935+01:00,15.0,2276,2,1353,UK,London,healthy
 2015-06-02 13:28:49.753383+01:00,38.35,2276,6,2004,UK,London,healthy
-2015-06-04 09:42:01.966295+01:00,201.2,2276,14,15551,UK,London,healthy
 2015-06-04 14:23:03.414793+01:00,27.98,2276,2,1033,UK,London,healthy
 2015-06-04 18:16:05.072587+01:00,17.75,2276,3,790,UK,London,healthy
 2015-06-05 12:10:47.666713+01:00,85.5,2276,6,4669,UK,London,healthy
@@ -373,7 +372,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-21 14:18:52.535163+01:00,9.25,1518,2,603,UK,London,healthy
 2015-06-22 13:34:27.087796+01:00,28.5,1518,5,5,UK,London,healthy
 2015-06-22 19:57:01.188121+01:00,16.8,1518,2,532,UK,London,healthy
-2015-06-23 16:44:47.639596+01:00,72.7,1518,4,73580,UK,London,healthy
 2015-06-23 18:37:23.774263+01:00,16.15,1518,4,5,UK,London,healthy
 2015-06-23 19:46:15.120497+01:00,48.85,1518,5,915,UK,London,healthy
 2015-06-23 21:47:09.366731+01:00,16.55,1518,3,5,UK,London,healthy
@@ -385,7 +383,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-25 21:35:59.811094+01:00,18.65,1518,5,5,UK,London,healthy
 2015-06-26 20:22:30.369594+01:00,23.7,1518,3,15,UK,London,healthy
 2015-06-26 21:27:47.332903+01:00,19.8,1518,4,0,UK,London,healthy
-2015-06-29 14:29:36.422279+01:00,292.55,1518,9,83507,UK,London,healthy
 2015-06-29 21:08:13.394536+01:00,18.75,1518,4,374,UK,London,healthy
 2015-06-29 21:53:20.926934+01:00,17.1,1518,5,0,UK,London,healthy
 2015-06-01 12:02:23.080222+01:00,17.35,666,4,6386,UK,London,dessert
@@ -730,7 +727,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-02 13:17:47.991518+02:00,21.297,1871,5,186,France,Paris,french
 2015-06-02 14:17:53.438559+02:00,10.6485,1871,3,237,France,Paris,french
 2015-06-02 18:20:45.014678+02:00,31.2356,1871,5,8574,France,Paris,french
-2015-06-02 20:08:24.750103+02:00,14.198,1871,4,64598,France,Paris,french
 2015-06-02 21:46:14.161356+02:00,21.297,1871,4,6,France,Paris,french
 2015-06-02 22:06:43.226929+02:00,25.5564,1871,5,317,France,Paris,french
 2015-06-02 22:32:43.782626+02:00,10.6485,1871,3,27,France,Paris,french
@@ -850,7 +846,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-23 21:18:16.902284+02:00,17.037599999999998,1871,5,171,France,Paris,french
 2015-06-23 21:22:54.327081+02:00,10.6485,1871,3,42,France,Paris,french
 2015-06-24 13:37:59.075936+02:00,21.297,1871,10,1387,France,Paris,french
-2015-06-24 17:18:03.144625+02:00,34.075199999999995,1871,3,14988,France,Paris,french
 2015-06-24 19:00:02.296175+02:00,22.0069,1871,6,9395,France,Paris,french
 2015-06-24 20:32:53.498867+02:00,13.4881,1871,4,6,France,Paris,french
 2015-06-24 22:23:51.913656+02:00,22.0069,1871,6,6,France,Paris,french
@@ -859,7 +854,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-25 22:22:55.609730+02:00,26.2663,1871,6,5,France,Paris,french
 2015-06-26 13:14:48.109550+02:00,42.594,1871,6,1135,France,Paris,french
 2015-06-26 22:16:17.469916+02:00,10.6485,1871,3,78,France,Paris,french
-2015-06-27 16:08:59.534107+02:00,36.9148,1871,3,16611,France,Paris,french
 2015-06-27 21:25:44.521649+02:00,65.3108,1871,12,94,France,Paris,french
 2015-06-27 21:56:52.472461+02:00,25.5564,1871,6,192,France,Paris,french
 2015-06-27 21:57:19.678364+02:00,25.5564,1871,5,122,France,Paris,french
@@ -920,7 +914,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-29 12:06:59.907396+01:00,60.0,879,3,3953,UK,London,french
 2015-06-29 19:44:21.296921+01:00,26.0,879,1,641,UK,London,french
 2015-06-01 12:28:44.239165+01:00,40.9,177,9,3578,UK,London,mediterranean
-2015-06-02 17:54:55.329081+01:00,95.05,177,6,69981,UK,London,mediterranean
 2015-06-03 12:31:17.555628+01:00,82.85,177,12,5169,UK,London,mediterranean
 2015-06-03 20:19:13.040489+01:00,7.4,177,1,511,UK,London,mediterranean
 2015-06-03 20:30:35.109237+01:00,15.4,177,3,415,UK,London,mediterranean
@@ -1022,7 +1015,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-09 22:49:28.964201+01:00,17.0,19,3,884,UK,London,lebanese
 2015-06-10 13:13:30.672566+01:00,46.5,19,3,2641,UK,London,lebanese
 2015-06-10 13:40:32.431442+01:00,34.0,19,3,1169,UK,London,lebanese
-2015-06-10 17:15:50.055983+01:00,20.25,19,1,72059,UK,London,lebanese
 2015-06-10 19:07:34.195464+01:00,20.75,19,2,591,UK,London,lebanese
 2015-06-10 19:22:20.495687+01:00,50.0,19,3,946,UK,London,lebanese
 2015-06-10 20:13:00.685289+01:00,22.5,19,2,596,UK,London,lebanese
@@ -1183,7 +1175,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-06 14:57:05.846753+01:00,37.4,20,3,1276,UK,London,japanese
 2015-06-06 17:16:29.936333+01:00,36.2,20,4,1062,UK,London,japanese
 2015-06-07 12:00:10.372550+01:00,23.6,20,2,6241,UK,London,japanese
-2015-06-07 13:18:45.090839+01:00,25.2,20,4,22616,UK,London,japanese
 2015-06-07 13:27:56.919596+01:00,31.3,20,5,2337,UK,London,japanese
 2015-06-07 14:00:53.984291+01:00,69.0,20,4,1968,UK,London,japanese
 2015-06-07 15:03:16.885673+01:00,15.0,20,2,11902,UK,London,japanese
@@ -1424,7 +1415,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-01 13:38:05.601091+01:00,80.5,16,10,1015,UK,London,thai
 2015-06-01 16:10:27.263999+01:00,17.0,16,1,588,UK,London,thai
 2015-06-01 19:04:14.324151+01:00,35.5,16,5,1034,UK,London,thai
-2015-06-01 19:24:57.286518+01:00,351.5,16,21,88101,UK,London,thai
 2015-06-01 20:18:55.129132+01:00,60.5,16,10,587,UK,London,thai
 2015-06-01 20:02:18.127080+01:00,15.4,16,2,505,UK,London,thai
 2015-06-01 20:19:25.697793+01:00,31.9,16,5,1074,UK,London,thai
@@ -1496,7 +1486,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-14 22:03:48.231691+01:00,18.0,16,4,835,UK,London,thai
 2015-06-15 12:32:05.390043+01:00,16.4,16,2,3292,UK,London,thai
 2015-06-15 18:16:58.350215+01:00,20.3,16,3,1777,UK,London,thai
-2015-06-15 20:18:06.564412+01:00,351.5,16,21,85463,UK,London,thai
 2015-06-15 21:13:33.600862+01:00,30.2,16,4,1310,UK,London,thai
 2015-06-15 21:25:44.348362+01:00,15.4,16,3,864,UK,London,thai
 2015-06-15 21:30:49.535987+01:00,31.2,16,4,1031,UK,London,thai
@@ -2206,7 +2195,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-12 12:34:55.166182+01:00,64.38,408,12,4345,UK,London,chicken
 2015-06-12 12:47:09.671612+01:00,32.25,408,14,2137,UK,London,chicken
 2015-06-12 13:06:01.379413+01:00,40.95,408,17,1271,UK,London,chicken
-2015-06-12 13:33:17.160767+01:00,18.2,408,9,18497,UK,London,chicken
 2015-06-12 13:42:01.193804+01:00,26.85,408,6,443,UK,London,chicken
 2015-06-12 13:55:44.183608+01:00,18.2,408,10,537,UK,London,chicken
 2015-06-12 14:07:42.124434+01:00,81.73,408,21,928,UK,London,chicken
@@ -2443,7 +2431,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-21 20:20:42.530198+01:00,17.8,408,8,1427,UK,London,chicken
 2015-06-21 20:39:32.768353+01:00,34.25,408,15,1705,UK,London,chicken
 2015-06-22 12:57:18.175757+01:00,13.55,408,8,2647,UK,London,chicken
-2015-06-22 13:24:10.560560+01:00,16.0,408,3,17945,UK,London,chicken
 2015-06-22 13:26:47.594244+01:00,15.75,408,4,219,UK,London,chicken
 2015-06-22 14:44:05.585648+01:00,11.65,408,7,738,UK,London,chicken
 2015-06-22 15:00:32.381133+01:00,12.6,408,5,605,UK,London,chicken
@@ -2610,7 +2597,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-28 23:31:21.706034+01:00,15.79,408,9,1609,UK,London,chicken
 2015-06-29 16:16:39.354210+01:00,20.9,408,5,2534,UK,London,chicken
 2015-06-29 17:31:31.960869+01:00,33.45,408,11,3547,UK,London,chicken
-2015-06-29 17:43:01.874660+01:00,35.2,408,13,15308,UK,London,chicken
 2015-06-29 19:50:39.766295+01:00,31.7,408,13,737,UK,London,chicken
 2015-06-29 20:04:04.127439+01:00,17.45,408,8,830,UK,London,chicken
 2015-06-29 20:16:08.265822+01:00,25.2,408,12,703,UK,London,chicken
@@ -2663,7 +2649,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-29 13:55:09.619642+02:00,13.13315,1874,2,91,France,Paris,healthy
 2015-06-01 12:54:45.457849+01:00,20.85,1319,3,4438,UK,London,thai
 2015-06-01 13:24:37.328479+01:00,47.8,1319,4,2641,UK,London,thai
-2015-06-01 18:43:58.980634+01:00,10.95,1319,1,67288,UK,London,thai
 2015-06-01 18:44:09.178854+01:00,23.35,1319,4,2927,UK,London,thai
 2015-06-07 16:00:56.685949+01:00,18.9,1319,2,1076,UK,London,thai
 2015-06-07 16:04:18.198561+01:00,18.4,1319,3,874,UK,London,thai
@@ -2709,7 +2694,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-02 13:33:17.403615+01:00,24.1,2345,8,30,UK,Manchester,deli
 2015-06-05 12:37:17.111602+01:00,37.15,2345,7,3153,UK,Manchester,deli
 2015-06-05 13:35:43.110790+01:00,24.7,2345,4,221,UK,Manchester,deli
-2015-06-06 12:17:01.531223+01:00,15.9,2345,5,90962,UK,Manchester,deli
 2015-06-06 12:16:26.210156+01:00,12.7,2345,4,67,UK,Manchester,deli
 2015-06-07 13:04:39.305804+01:00,35.3,2345,4,1745,UK,Manchester,deli
 2015-06-07 13:27:36.780790+01:00,15.7,2345,3,337,UK,Manchester,deli
@@ -3140,7 +3124,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-26 20:28:48.319232+01:00,17.45,74,3,1656,UK,London,italian
 2015-06-01 13:10:34.300607+01:00,31.75,1479,3,2224,UK,Manchester,argentinian
 2015-06-01 23:48:34.793765+01:00,35.0,1479,3,921,UK,Manchester,argentinian
-2015-06-02 13:49:33.342838+01:00,42.0,1479,4,20252,UK,Manchester,argentinian
 2015-06-04 19:41:19.358315+01:00,40.0,1479,2,589,UK,Manchester,argentinian
 2015-06-04 23:31:59.158775+01:00,32.0,1479,4,805,UK,Manchester,argentinian
 2015-06-05 23:48:28.813380+01:00,64.5,1479,5,735,UK,Manchester,argentinian
@@ -3202,7 +3185,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-11 13:21:48.120159+01:00,42.25,2104,6,15,UK,London,healthy
 2015-06-11 15:12:36.417208+01:00,24.75,2104,6,10,UK,London,healthy
 2015-06-12 12:30:41.240197+01:00,31.35,2104,4,3125,UK,London,healthy
-2015-06-12 14:56:28.476473+01:00,25.05,2104,3,16665,UK,London,healthy
 2015-06-12 16:35:21.021434+01:00,18.7,2104,4,322,UK,London,healthy
 2015-06-12 19:12:14.370188+01:00,16.1,2104,3,15,UK,London,healthy
 2015-06-13 20:00:44.865487+01:00,20.35,2104,4,138,UK,London,healthy
@@ -3242,8 +3224,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-26 20:16:58.175088+01:00,17.0,2104,4,503,UK,London,healthy
 2015-06-27 14:06:39.927365+01:00,20.85,2104,5,38,UK,London,healthy
 2015-06-27 14:43:30.915743+01:00,16.45,2104,3,487,UK,London,healthy
-2015-06-28 18:56:44.328174+01:00,116.95,2104,7,68072,UK,London,healthy
-2015-06-29 17:26:25.012309+01:00,88.45,2104,6,67317,UK,London,healthy
 2015-06-29 18:57:32.858568+01:00,16.1,2104,3,252,UK,London,healthy
 2015-06-29 20:39:18.325537+01:00,15.15,2104,2,20,UK,London,healthy
 2015-06-29 20:45:10.882329+01:00,23.55,2104,4,65,UK,London,healthy
@@ -3522,7 +3502,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-16 12:46:36.075314+01:00,16.0,1329,4,1578,UK,London,mediterranean
 2015-06-17 12:32:12.685729+01:00,23.6,1329,2,3162,UK,London,mediterranean
 2015-06-17 14:13:00.200419+01:00,23.8,1329,4,392,UK,London,mediterranean
-2015-06-19 13:12:02.811695+01:00,15.0,1329,4,27339,UK,London,mediterranean
 2015-06-19 14:04:00.001302+01:00,17.2,1329,2,236,UK,London,mediterranean
 2015-06-22 21:10:17.225626+01:00,17.3,1329,4,643,UK,London,mediterranean
 2015-06-25 19:54:14.214353+01:00,18.3,1329,3,427,UK,London,mediterranean
@@ -3997,7 +3976,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-16 20:58:31.902344+02:00,11.07444,1825,2,427,France,Paris,american
 2015-06-29 20:46:46.405210+02:00,11.92632,1825,3,614,France,Paris,american
 2015-06-30 22:14:40.894072+02:00,11.21642,1825,4,544,France,Paris,american
-2015-06-01 14:04:00.774498+01:00,16.1,12,2,24563,UK,London,korean
 2015-06-01 19:11:36.734958+01:00,20.5,12,3,9597,UK,London,korean
 2015-06-01 20:35:11.341035+01:00,29.4,12,2,1846,UK,London,korean
 2015-06-01 21:30:47.158832+01:00,30.3,12,5,691,UK,London,korean
@@ -4490,7 +4468,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-29 17:36:22.570515+01:00,15.0,1274,4,593,UK,London,vietnamese
 2015-06-30 14:37:06.924871+01:00,20.0,1274,4,109,UK,London,vietnamese
 2015-06-30 15:06:44.587915+01:00,11.0,1274,2,219,UK,London,vietnamese
-2015-06-01 13:46:27.672669+01:00,220.25,129,16,87219,UK,London,lebanese
 2015-06-01 19:32:48.731145+01:00,29.5,129,4,1363,UK,London,lebanese
 2015-06-01 20:07:45.095882+01:00,18.0,129,2,409,UK,London,lebanese
 2015-06-01 21:19:10.071898+01:00,25.75,129,5,1257,UK,London,lebanese
@@ -4717,7 +4694,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-04 23:20:07.197288+01:00,39.95,2309,5,841,UK,Nottingham,italian
 2015-06-05 16:22:21.698620+01:00,18.2,2309,2,7550,UK,Nottingham,italian
 2015-06-05 19:31:44.257769+01:00,29.2,2309,4,524,UK,Nottingham,italian
-2015-06-05 20:38:17.982605+01:00,50.4,2309,4,60581,UK,Nottingham,italian
 2015-06-05 23:42:35.705593+01:00,15.7,2309,4,835,UK,Nottingham,italian
 2015-06-06 19:39:12.892984+01:00,35.9,2309,6,594,UK,Nottingham,italian
 2015-06-07 20:32:47.429339+01:00,20.25,2309,3,544,UK,Nottingham,italian
@@ -5123,7 +5099,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-16 22:48:00.735688+01:00,22.8,1939,2,554,UK,London,thai
 2015-06-16 23:35:29.861583+01:00,24.4,1939,4,623,UK,London,thai
 2015-06-16 23:52:37.295248+01:00,18.4,1939,2,956,UK,London,thai
-2015-06-17 15:39:49.922830+01:00,17.0,1939,2,14737,UK,London,thai
 2015-06-17 20:28:51.085181+01:00,64.4,1939,10,1415,UK,London,thai
 2015-06-17 20:42:16.772801+01:00,22.9,1939,2,665,UK,London,thai
 2015-06-17 20:50:15.265715+01:00,149.2,1939,11,782,UK,London,thai
@@ -5157,7 +5132,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-18 23:54:20.465306+01:00,37.6,1939,6,236,UK,London,thai
 2015-06-19 13:04:32.880468+01:00,16.9,1939,3,961,UK,London,thai
 2015-06-19 16:22:10.751279+01:00,11.8,1939,2,311,UK,London,thai
-2015-06-19 16:30:18.978180+01:00,34.9,1939,3,15777,UK,London,thai
 2015-06-19 20:06:28.701543+01:00,32.8,1939,4,619,UK,London,thai
 2015-06-19 20:09:55.856269+01:00,27.8,1939,4,569,UK,London,thai
 2015-06-19 20:51:25.077355+01:00,20.8,1939,2,650,UK,London,thai
@@ -5589,7 +5563,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-30 20:57:04.870627+01:00,33.45,1231,4,886,UK,London,thai
 2015-06-30 22:11:25.493032+01:00,29.4,1231,3,888,UK,London,thai
 2015-06-30 22:29:55.567603+01:00,20.9,1231,2,947,UK,London,thai
-2015-06-30 22:54:47.281845+01:00,59.8,1231,8,78347,UK,London,thai
 2015-06-01 14:19:03.824028+01:00,19.35,568,4,1872,UK,London,indian
 2015-06-01 21:18:42.972462+01:00,40.8,568,8,1560,UK,London,indian
 2015-06-01 21:22:09.973777+01:00,23.3,568,5,1359,UK,London,indian
@@ -6568,7 +6541,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-23 21:46:12.942199+01:00,13.3,23,2,635,UK,London,italian
 2015-06-23 22:49:04.054135+01:00,20.1,23,3,302,UK,London,italian
 2015-06-24 16:34:55.656789+01:00,33.7,23,7,614,UK,London,italian
-2015-06-24 19:06:51.947096+01:00,80.1,23,10,66029,UK,London,italian
 2015-06-24 23:15:15.205353+01:00,15.3,23,3,146,UK,London,italian
 2015-06-25 14:36:56.187552+01:00,19.1,23,2,146,UK,London,italian
 2015-06-25 20:31:41.397156+01:00,16.0,23,3,544,UK,London,italian
@@ -7195,8 +7167,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-18 20:20:03.033924+01:00,15.1,2285,2,238,UK,London,burritos
 2015-06-20 22:31:11.962956+01:00,16.0,2285,4,951,UK,London,burritos
 2015-06-24 14:01:43.997495+01:00,15.1,2285,3,299,UK,London,burritos
-2015-06-25 17:58:15.536275+01:00,211.4,2285,18,66477,UK,London,burritos
-2015-06-25 18:26:05.076906+01:00,197.0,2285,8,71595,UK,London,burritos
 2015-06-25 22:58:09.060708+01:00,11.8,2285,4,648,UK,London,burritos
 2015-06-26 14:34:42.850480+01:00,120.5,2285,10,1632,UK,London,burritos
 2015-06-26 22:26:49.725201+01:00,17.8,2285,4,99,UK,London,burritos
@@ -7547,7 +7517,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-08 13:08:19.181241+01:00,16.0,2759,3,514,UK,London,italian
 2015-06-08 14:07:39.352530+01:00,15.0,2759,3,800,UK,London,italian
 2015-06-10 14:28:30.751635+01:00,15.0,2759,3,261,UK,London,italian
-2015-06-11 13:31:17.367236+01:00,52.0,2759,8,87688,UK,London,italian
 2015-06-12 13:50:02.679140+01:00,15.5,2759,2,374,UK,London,italian
 2015-06-12 14:08:42.218738+01:00,19.0,2759,3,981,UK,London,italian
 2015-06-16 13:37:34.975533+01:00,26.5,2759,5,362,UK,London,italian
@@ -7817,7 +7786,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-26 21:39:14.962581+01:00,17.7,1522,2,891,UK,London,italian
 2015-06-26 22:24:28.857107+01:00,15.25,1522,2,131,UK,London,italian
 2015-06-27 14:01:40.039832+01:00,20.25,1522,2,1827,UK,London,italian
-2015-06-27 16:39:35.220742+01:00,163.75,1522,2,86829,UK,London,italian
 2015-06-27 20:44:37.498376+01:00,47.0,1522,4,1782,UK,London,italian
 2015-06-27 21:31:10.036710+01:00,21.45,1522,2,1066,UK,London,italian
 2015-06-28 21:00:48.871308+01:00,23.0,1522,1,1233,UK,London,italian
@@ -8439,7 +8407,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-18 13:26:07.923768+01:00,48.8,2717,5,1660,UK,London,south american
 2015-06-19 13:13:42.442462+01:00,131.5,2717,9,3937,UK,London,south american
 2015-06-28 18:54:11.554599+01:00,33.5,2717,4,758,UK,London,south american
-2015-06-30 15:43:18.210480+01:00,129.5,2717,8,79657,UK,London,south american
 2015-06-01 17:06:59.368506+01:00,44.2,2165,4,1541,UK,London,burgers
 2015-06-03 16:35:02.568960+01:00,31.4,2165,4,915,UK,London,burgers
 2015-06-03 16:40:20.637176+01:00,59.4,2165,3,1087,UK,London,burgers
@@ -8660,7 +8627,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-18 13:00:23.748073+01:00,31.35,1519,4,4519,UK,London,healthy
 2015-06-18 18:46:22.190594+01:00,17.1,1519,3,339,UK,London,healthy
 2015-06-18 19:46:14.426561+01:00,21.15,1519,4,485,UK,London,healthy
-2015-06-19 12:04:31.148197+01:00,15.55,1519,4,35970,UK,London,healthy
 2015-06-20 19:18:02.166627+01:00,15.65,1519,4,543,UK,London,healthy
 2015-06-23 13:50:59.061434+01:00,217.3,1519,11,1214,UK,London,healthy
 2015-06-23 19:07:14.597393+01:00,13.3,1519,3,161,UK,London,healthy
@@ -9193,7 +9159,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-05 23:20:23.016851+01:00,23.6,958,4,450,UK,London,american
 2015-06-07 14:38:11.147770+01:00,16.6,958,4,322,UK,London,american
 2015-06-07 17:58:52.073487+01:00,17.9,958,3,847,UK,London,american
-2015-06-10 17:27:31.321089+01:00,144.25,958,15,72904,UK,London,american
 2015-06-10 21:31:20.816515+01:00,16.2,958,3,2969,UK,London,american
 2015-06-13 16:27:45.344346+01:00,19.6,958,4,654,UK,London,american
 2015-06-14 17:14:02.602026+01:00,8.9,958,2,1209,UK,London,american
@@ -9214,7 +9179,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-07 21:49:39.897555+01:00,15.45,69,3,694,UK,London,lebanese
 2015-06-08 13:57:16.907361+01:00,38.4,69,5,701,UK,London,lebanese
 2015-06-08 20:50:12.099308+01:00,18.6,69,4,723,UK,London,lebanese
-2015-06-09 17:53:07.983588+01:00,107.6,69,11,71687,UK,London,lebanese
 2015-06-09 19:38:04.628822+01:00,87.05,69,15,887,UK,London,lebanese
 2015-06-10 15:21:26.572560+01:00,27.3,69,6,1237,UK,London,lebanese
 2015-06-12 14:24:43.757278+01:00,9.9,69,2,1433,UK,London,lebanese
@@ -9765,7 +9729,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-23 19:22:50.021352+01:00,22.45,2230,3,930,UK,London,mexican
 2015-06-23 19:26:46.703602+01:00,21.5,2230,2,4460,UK,London,mexican
 2015-06-23 21:31:27.480956+01:00,38.0,2230,3,518,UK,London,mexican
-2015-06-24 11:54:37.425417+01:00,1.5,2230,1,89652,UK,London,mexican
 2015-06-24 21:03:36.033995+01:00,31.0,2230,3,101,UK,London,mexican
 2015-06-24 21:54:14.587281+01:00,50.0,2230,3,5322,UK,London,mexican
 2015-06-25 11:52:46.948001+01:00,60.7,2230,8,2081,UK,London,mexican
@@ -9806,7 +9769,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-18 19:31:21.927953+01:00,32.0,441,6,3800,UK,London,pan asian
 2015-06-18 20:16:46.968242+01:00,20.1,441,4,435,UK,London,pan asian
 2015-06-19 12:30:37.459724+01:00,54.4,441,7,2572,UK,London,pan asian
-2015-06-19 14:22:41.266706+01:00,76.8,441,5,255499,UK,London,pan asian
 2015-06-19 20:06:08.285614+01:00,24.8,441,4,375,UK,London,pan asian
 2015-06-22 21:16:35.667935+01:00,15.5,441,3,337,UK,London,pan asian
 2015-06-22 21:24:59.869534+01:00,15.0,441,2,297,UK,London,pan asian
@@ -10091,8 +10053,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-01 18:04:54.630973+01:00,11.25,859,2,644,UK,London,deli
 2015-06-02 14:32:35.765901+01:00,16.45,859,5,356,UK,London,deli
 2015-06-03 14:43:19.862128+01:00,40.75,859,9,453,UK,London,deli
-2015-06-04 13:07:37.267119+01:00,243.5,859,15,87803,UK,London,deli
-2015-06-04 13:11:39.226227+01:00,66.3,859,2,87570,UK,London,deli
 2015-06-05 13:27:37.003060+01:00,30.1,859,7,991,UK,London,deli
 2015-06-05 13:46:04.602559+01:00,19.0,859,4,487,UK,London,deli
 2015-06-08 16:02:02.960722+01:00,34.15,859,4,1665,UK,London,deli
@@ -10618,7 +10578,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-10 19:28:35.370541+01:00,22.95,1307,5,1605,UK,London,indian
 2015-06-11 19:53:27.009001+01:00,15.35,1307,4,1182,UK,London,indian
 2015-06-11 19:54:09.432778+01:00,16.0,1307,4,1140,UK,London,indian
-2015-06-11 21:36:18.727648+01:00,95.9,1307,14,56636,UK,London,indian
 2015-06-12 21:46:34.700058+01:00,35.35,1307,7,901,UK,London,indian
 2015-06-13 19:27:27.842182+01:00,42.95,1307,11,1238,UK,London,indian
 2015-06-14 19:10:38.830878+01:00,13.55,1307,4,1937,UK,London,indian
@@ -10695,7 +10654,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-09 21:15:49.529962+01:00,23.0,661,3,1036,UK,London,pan asian
 2015-06-09 21:34:36.942563+01:00,18.5,661,3,714,UK,London,pan asian
 2015-06-10 17:26:53.764380+01:00,22.0,661,4,9520,UK,London,pan asian
-2015-06-11 13:03:48.866559+01:00,19.5,661,3,31163,UK,London,pan asian
 2015-06-12 13:40:29.516737+01:00,32.5,661,4,815,UK,London,pan asian
 2015-06-13 20:48:02.762717+01:00,24.5,661,3,679,UK,London,pan asian
 2015-06-13 21:00:53.202352+01:00,15.0,661,3,760,UK,London,pan asian
@@ -10977,7 +10935,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-25 21:53:10.504631+01:00,15.8,904,2,926,UK,London,turkish
 2015-06-25 22:12:35.156133+01:00,15.0,904,2,1010,UK,London,turkish
 2015-06-26 20:35:29.222905+01:00,32.5,904,4,1451,UK,London,turkish
-2015-06-28 13:22:14.006573+01:00,24.3,904,2,20801,UK,London,turkish
 2015-06-28 20:51:29.918816+01:00,34.6,904,6,888,UK,London,turkish
 2015-06-28 21:44:47.891283+01:00,21.0,904,2,1636,UK,London,turkish
 2015-06-29 20:49:17.064613+01:00,30.9,904,6,772,UK,London,turkish
@@ -11005,7 +10962,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-02 21:34:30.555325+01:00,20.95,996,3,790,UK,London,thai
 2015-06-03 21:06:16.186885+01:00,29.8,996,5,1255,UK,London,thai
 2015-06-04 20:15:53.187985+01:00,20.45,996,2,527,UK,London,thai
-2015-06-05 15:47:18.386383+01:00,29.9,996,4,14894,UK,London,thai
 2015-06-06 19:49:48.409727+01:00,15.0,996,2,451,UK,London,thai
 2015-06-06 23:11:21.362074+01:00,37.4,996,5,1162,UK,London,thai
 2015-06-07 18:07:50.667778+01:00,38.35,996,6,6847,UK,London,thai
@@ -11083,7 +11039,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-02 21:32:27.699890+01:00,25.2,1453,6,866,UK,London,greek
 2015-06-02 22:01:38.967868+01:00,23.7,1453,4,1620,UK,London,greek
 2015-06-03 17:45:14.515836+01:00,10.5,1453,2,996,UK,London,greek
-2015-06-03 18:14:40.581106+01:00,227.1,1453,6,64475,UK,London,greek
 2015-06-04 11:12:42.138606+01:00,17.9,1453,1,3404,UK,London,greek
 2015-06-04 21:03:22.981598+01:00,36.0,1453,4,729,UK,London,greek
 2015-06-04 23:17:53.528189+01:00,18.25,1453,4,946,UK,London,greek
@@ -11434,7 +11389,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-01 20:23:57.024712+01:00,56.85,785,8,956,UK,London,south american
 2015-06-02 20:15:21.639456+01:00,16.55,785,3,457,UK,London,south american
 2015-06-02 21:53:07.382360+01:00,72.6,785,6,699,UK,London,south american
-2015-06-03 14:44:53.275493+01:00,156.9,785,12,81262,UK,London,south american
 2015-06-04 20:08:55.571841+01:00,38.65,785,5,835,UK,London,south american
 2015-06-06 16:24:18.283081+01:00,32.25,785,5,484,UK,London,south american
 2015-06-08 21:08:22.970863+01:00,33.85,785,4,584,UK,London,south american
@@ -11539,7 +11493,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-01 19:20:54.652803+01:00,37.5,1245,4,8920,UK,London,italian
 2015-06-01 20:06:36.197060+01:00,64.9,1245,4,86,UK,London,italian
 2015-06-01 20:20:25.698617+01:00,38.25,1245,5,3007,UK,London,italian
-2015-06-08 23:26:43.320171+01:00,28.7,1245,1,78232,UK,London,italian
 2015-06-09 21:53:38.965396+01:00,21.8,1245,2,1033,UK,London,italian
 2015-06-10 16:00:02.112293+01:00,16.9,1245,3,97,UK,London,italian
 2015-06-10 22:38:40.283766+01:00,17.45,1245,3,480,UK,London,italian
@@ -11756,7 +11709,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-01 20:12:26.974706+01:00,29.85,1099,4,527,UK,Manchester,pan asian
 2015-06-02 18:38:40.347906+01:00,26.5,1099,3,981,UK,Manchester,pan asian
 2015-06-02 22:39:08.487514+01:00,20.4,1099,3,583,UK,Manchester,pan asian
-2015-06-03 16:36:15.312205+01:00,198.3,1099,17,76233,UK,Manchester,pan asian
 2015-06-03 16:38:36.368605+01:00,22.4,1099,3,609,UK,Manchester,pan asian
 2015-06-04 20:55:20.016114+01:00,35.75,1099,4,518,UK,Manchester,pan asian
 2015-06-04 21:48:02.270957+01:00,22.5,1099,2,880,UK,Manchester,pan asian
@@ -11792,7 +11744,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-14 20:56:14.753774+01:00,23.85,1099,2,835,UK,Manchester,pan asian
 2015-06-16 20:23:11.955417+01:00,35.35,1099,4,1130,UK,Manchester,pan asian
 2015-06-16 21:14:38.961236+01:00,24.15,1099,3,498,UK,Manchester,pan asian
-2015-06-17 18:09:09.284253+01:00,84.4,1099,7,89446,UK,Manchester,pan asian
 2015-06-18 15:09:41.590629+01:00,7.5,1099,1,13819,UK,Manchester,pan asian
 2015-06-19 19:16:51.081381+01:00,31.35,1099,4,3522,UK,Manchester,pan asian
 2015-06-19 20:03:46.401902+01:00,13.25,1099,2,1246,UK,Manchester,pan asian
@@ -11811,7 +11762,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-22 21:44:02.042293+01:00,35.75,1099,5,464,UK,Manchester,pan asian
 2015-06-22 22:30:59.184248+01:00,15.85,1099,2,393,UK,Manchester,pan asian
 2015-06-23 15:03:56.937670+01:00,19.9,1099,2,484,UK,Manchester,pan asian
-2015-06-23 16:09:36.350545+01:00,61.3,1099,4,24208,UK,Manchester,pan asian
 2015-06-23 21:14:27.933418+01:00,19.9,1099,1,599,UK,Manchester,pan asian
 2015-06-24 19:19:53.326173+01:00,31.6,1099,3,733,UK,Manchester,pan asian
 2015-06-25 20:10:37.281702+01:00,44.6,1099,6,624,UK,Manchester,pan asian
@@ -11925,7 +11875,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-18 22:28:19.845629+01:00,13.0,520,3,484,UK,London,indian
 2015-06-19 19:59:02.678942+01:00,27.2,520,5,663,UK,London,indian
 2015-06-19 22:46:37.054271+01:00,18.5,520,4,621,UK,London,indian
-2015-06-20 15:27:58.534911+01:00,44.5,520,10,15941,UK,London,indian
 2015-06-20 19:22:41.482839+01:00,16.5,520,4,514,UK,London,indian
 2015-06-20 20:38:41.259292+01:00,24.25,520,6,472,UK,London,indian
 2015-06-20 21:09:53.719703+01:00,16.9,520,2,235,UK,London,indian
@@ -12016,7 +11965,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-05 13:24:09.144502+01:00,22.45,913,3,1363,UK,London,middle eastern
 2015-06-05 20:06:38.526103+01:00,15.25,913,3,1420,UK,London,middle eastern
 2015-06-18 21:17:07.062706+01:00,24.66,913,3,1101,UK,London,middle eastern
-2015-06-22 14:50:38.815880+01:00,38.3,913,6,20528,UK,London,middle eastern
 2015-06-01 19:39:56.977895+01:00,47.6,81,7,3762,UK,London,chicken
 2015-06-01 19:55:32.009806+01:00,17.0,81,4,1364,UK,London,chicken
 2015-06-01 19:59:11.899855+01:00,16.4,81,3,1069,UK,London,chicken
@@ -12184,7 +12132,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-15 23:55:50.574046+01:00,13.85,775,3,232,UK,London,burgers
 2015-06-16 15:38:19.844770+01:00,21.65,775,3,1206,UK,London,burgers
 2015-06-16 19:47:14.364063+01:00,15.4,775,2,1064,UK,London,burgers
-2015-06-17 12:22:47.361933+01:00,31.4,775,5,26451,UK,London,burgers
 2015-06-17 18:38:27.285701+01:00,16.3,775,4,761,UK,London,burgers
 2015-06-17 19:11:23.854068+01:00,47.85,775,6,2900,UK,London,burgers
 2015-06-17 22:16:57.905483+01:00,17.2,775,3,800,UK,London,burgers
@@ -12260,7 +12207,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-28 20:07:05.926117+01:00,16.1,775,3,914,UK,London,burgers
 2015-06-28 20:15:27.198759+01:00,41.15,775,4,870,UK,London,burgers
 2015-06-28 20:36:34.498716+01:00,36.75,775,5,1372,UK,London,burgers
-2015-06-29 12:20:17.257108+01:00,17.2,775,3,31802,UK,London,burgers
 2015-06-29 13:41:45.630437+01:00,24.4,775,4,1476,UK,London,burgers
 2015-06-29 15:27:38.793222+01:00,18.45,775,3,1122,UK,London,burgers
 2015-06-29 19:57:01.961919+01:00,16.1,775,4,2484,UK,London,burgers
@@ -12996,7 +12942,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-10 20:01:45.280311+01:00,15.5,2236,5,1255,UK,London,burgers
 2015-06-11 19:06:41.902593+01:00,31.0,2236,6,926,UK,London,burgers
 2015-06-12 19:57:27.279725+01:00,24.0,2236,8,1321,UK,London,burgers
-2015-06-18 15:08:20.153704+01:00,155.5,2236,9,81184,UK,London,burgers
 2015-06-19 21:53:17.449038+01:00,15.0,2236,5,1145,UK,London,burgers
 2015-06-20 17:19:33.464720+01:00,33.0,2236,5,659,UK,London,burgers
 2015-06-20 19:43:53.804320+01:00,19.5,2236,7,7400,UK,London,burgers
@@ -13165,7 +13110,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-24 18:56:09.845490+01:00,43.7,1471,10,1230,UK,London,burgers
 2015-06-26 19:58:28.744706+01:00,20.0,1471,2,845,UK,London,burgers
 2015-06-26 21:05:19.173128+01:00,22.6,1471,3,925,UK,London,burgers
-2015-06-27 14:28:38.597727+01:00,18.5,1471,4,113157,UK,London,burgers
 2015-06-27 18:00:39.423071+01:00,19.5,1471,2,1995,UK,London,burgers
 2015-06-27 18:25:30.128657+01:00,17.2,1471,2,1155,UK,London,burgers
 2015-06-27 19:29:59.172604+01:00,22.0,1471,2,1139,UK,London,burgers
@@ -13219,7 +13163,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-17 20:02:19.069304+01:00,17.85,2702,3,956,UK,Leeds,vietnamese
 2015-06-19 13:34:09.516182+01:00,19.85,2702,3,784,UK,Leeds,vietnamese
 2015-06-19 18:35:19.368064+01:00,15.45,2702,3,4757,UK,Leeds,vietnamese
-2015-06-23 10:42:16.670721+01:00,11.4,2702,2,31276,UK,Leeds,vietnamese
 2015-06-23 16:14:44.944697+01:00,27.35,2702,5,437,UK,Leeds,vietnamese
 2015-06-24 21:08:10.415652+01:00,19.35,2702,4,463,UK,Leeds,vietnamese
 2015-06-01 20:05:05.022173+01:00,19.95,7,3,589,UK,London,italian
@@ -13745,7 +13688,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-01 20:13:14.850958+01:00,38.7,1784,5,1032,UK,Birmingham,american
 2015-06-01 21:24:32.521297+01:00,25.75,1784,4,782,UK,Birmingham,american
 2015-06-01 23:26:28.984502+01:00,50.4,1784,5,1487,UK,Birmingham,american
-2015-06-12 12:16:22.529913+01:00,26.4,1784,3,25639,UK,Birmingham,american
 2015-06-14 16:50:02.954095+01:00,15.9,1784,2,699,UK,Birmingham,american
 2015-06-14 22:58:19.695225+01:00,16.4,1784,2,756,UK,Birmingham,american
 2015-06-20 14:34:51.710853+01:00,16.75,1784,3,1503,UK,Birmingham,american
@@ -13912,7 +13854,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-25 21:30:51.256603+01:00,16.9,2374,2,518,UK,London,lebanese
 2015-06-26 16:06:57.150850+01:00,18.95,2374,1,724,UK,London,lebanese
 2015-06-27 21:39:04.359171+01:00,19.5,2374,2,337,UK,London,lebanese
-2015-06-29 14:11:17.864008+01:00,149.1,2374,10,84115,UK,London,lebanese
 2015-06-29 14:47:20.865912+01:00,17.24,2374,3,684,UK,London,lebanese
 2015-06-30 23:36:14.475906+01:00,45.84,2374,6,1338,UK,London,lebanese
 2015-06-01 20:15:13.678667+01:00,35.0,919,5,1082,UK,London,chicken
@@ -14403,7 +14344,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-24 16:18:39.710436+01:00,18.5,1188,2,397,UK,Manchester,pizza
 2015-06-24 23:43:33.611925+01:00,16.5,1188,3,445,UK,Manchester,pizza
 2015-06-25 13:05:26.787396+01:00,19.5,1188,2,2325,UK,Manchester,pizza
-2015-06-26 13:17:14.007797+01:00,100.0,1188,8,16342,UK,Manchester,pizza
 2015-06-27 13:49:26.597668+01:00,19.5,1188,2,655,UK,Manchester,pizza
 2015-06-27 18:42:17.635094+01:00,19.5,1188,2,1088,UK,Manchester,pizza
 2015-06-27 23:07:27.946879+01:00,25.0,1188,2,261,UK,Manchester,pizza
@@ -15139,7 +15079,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-20 18:19:15.617670+01:00,43.0,2512,9,1290,UK,London,seafood
 2015-06-20 18:51:42.463927+01:00,28.2,2512,3,886,UK,London,seafood
 2015-06-21 21:47:58.350655+01:00,16.0,2512,2,1655,UK,London,seafood
-2015-06-25 13:42:17.309380+01:00,17.9,2512,3,17733,UK,London,seafood
 2015-06-25 19:50:28.839572+01:00,86.35,2512,5,1399,UK,London,seafood
 2015-06-25 21:57:57.540962+01:00,25.9,2512,4,780,UK,London,seafood
 2015-06-26 16:48:40.287982+01:00,29.5,2512,3,2441,UK,London,seafood
@@ -15912,7 +15851,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-05 22:34:58.671514+01:00,36.7,1255,7,1247,UK,London,japanese
 2015-06-05 22:44:22.056330+01:00,15.5,1255,3,689,UK,London,japanese
 2015-06-06 12:43:11.828634+01:00,28.2,1255,2,2942,UK,London,japanese
-2015-06-06 15:44:37.249303+01:00,39.3,1255,2,16253,UK,London,japanese
 2015-06-06 17:29:13.817190+01:00,23.4,1255,3,890,UK,London,japanese
 2015-06-07 14:35:46.050125+01:00,44.2,1255,4,1414,UK,London,japanese
 2015-06-07 15:39:32.904586+01:00,15.4,1255,2,1456,UK,London,japanese
@@ -15975,7 +15913,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-27 20:11:31.477133+01:00,29.3,1255,2,801,UK,London,japanese
 2015-06-27 21:11:41.339798+01:00,18.9,1255,4,1343,UK,London,japanese
 2015-06-27 22:05:03.326203+01:00,16.5,1255,2,750,UK,London,japanese
-2015-06-28 17:12:25.662940+01:00,41.8,1255,3,17808,UK,London,japanese
 2015-06-28 19:11:40.171607+01:00,18.9,1255,3,1091,UK,London,japanese
 2015-06-28 22:30:33.317879+01:00,49.3,1255,7,1154,UK,London,japanese
 2015-06-29 13:42:06.667284+01:00,17.0,1255,2,1132,UK,London,japanese
@@ -16169,7 +16106,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-21 21:26:19.400624+01:00,16.25,885,5,553,UK,London,pizza
 2015-06-21 22:28:55.608051+01:00,16.0,885,2,1653,UK,London,pizza
 2015-06-22 16:55:35.156673+01:00,13.75,885,3,1092,UK,London,pizza
-2015-06-23 16:40:29.142843+01:00,65.0,885,4,97102,UK,London,pizza
 2015-06-23 20:34:52.261591+01:00,22.0,885,3,1498,UK,London,pizza
 2015-06-26 22:32:27.721988+01:00,10.75,885,3,648,UK,London,pizza
 2015-06-29 21:29:21.050892+01:00,15.5,885,4,837,UK,London,pizza
@@ -16266,7 +16202,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-21 18:42:45.106129+01:00,17.5,2852,4,835,UK,Leeds,thai
 2015-06-21 20:43:49.828205+01:00,20.5,2852,5,714,UK,Leeds,thai
 2015-06-22 19:41:28.452015+01:00,16.0,2852,4,1139,UK,Leeds,thai
-2015-06-25 18:23:04.149616+01:00,19.5,2852,4,93471,UK,Leeds,thai
 2015-06-26 21:53:51.998402+01:00,15.0,2852,3,494,UK,Leeds,thai
 2015-06-27 21:37:21.566474+01:00,27.5,2852,6,499,UK,Leeds,thai
 2015-06-30 19:28:55.882612+01:00,25.0,2852,4,1157,UK,Leeds,thai
@@ -17111,7 +17046,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-01 21:32:44.699261+01:00,15.5,943,3,528,UK,Brighton,pizza
 2015-06-02 19:57:06.808861+01:00,22.0,943,3,662,UK,Brighton,pizza
 2015-06-04 20:02:34.785229+01:00,15.0,943,3,609,UK,Brighton,pizza
-2015-06-05 17:11:04.203642+01:00,22.0,943,3,15244,UK,Brighton,pizza
 2015-06-05 18:59:16.884152+01:00,18.0,943,2,578,UK,Brighton,pizza
 2015-06-05 21:18:04.314889+01:00,16.0,943,2,418,UK,Brighton,pizza
 2015-06-08 19:16:44.384347+01:00,17.0,943,3,423,UK,Brighton,pizza
@@ -17324,7 +17258,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-01 21:36:45.363663+01:00,20.0,951,1,568,UK,London,pizza
 2015-06-04 16:50:47.109969+01:00,16.0,951,2,328,UK,London,pizza
 2015-06-05 20:26:25.239129+01:00,16.0,951,1,1499,UK,London,pizza
-2015-06-06 13:11:02.453440+01:00,15.0,951,1,25214,UK,London,pizza
 2015-06-06 21:12:10.027659+01:00,18.0,951,1,1286,UK,London,pizza
 2015-06-09 20:37:02.601524+01:00,15.0,951,1,25,UK,London,pizza
 2015-06-09 21:06:05.180604+01:00,16.0,951,1,0,UK,London,pizza
@@ -17832,7 +17765,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-25 17:03:21.136960+01:00,21.43898,1756,4,362,Ireland,Dublin,fish and chips
 2015-06-25 21:12:54.821770+01:00,13.13315,1756,2,306,Ireland,Dublin,fish and chips
 2015-06-28 18:56:50.649623+01:00,11.07444,1756,4,336,Ireland,Dublin,fish and chips
-2015-06-30 23:32:21.164644+01:00,140.382725,1756,7,52144,Ireland,Dublin,fish and chips
 2015-06-01 22:37:49.034829+01:00,7.75,2811,1,418,UK,Glasgow,italian
 2015-06-03 19:56:31.633465+01:00,14.7,2811,2,698,UK,Glasgow,italian
 2015-06-07 21:45:16.985115+01:00,15.7,2811,2,866,UK,Glasgow,italian
@@ -18090,7 +18022,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-22 19:02:50.865657+01:00,28.75,1384,4,1091,UK,London,italian
 2015-06-22 22:58:54.365113+01:00,16.45,1384,2,800,UK,London,italian
 2015-06-23 16:49:01.951590+01:00,19.7,1384,3,961,UK,London,italian
-2015-06-26 07:50:10.484282+01:00,25.4,1384,3,20399,UK,London,italian
 2015-06-26 20:21:13.020057+01:00,52.45,1384,4,931,UK,London,italian
 2015-06-26 20:32:23.804796+01:00,15.2,1384,2,331,UK,London,italian
 2015-06-27 22:00:49.176882+01:00,46.15,1384,6,701,UK,London,italian
@@ -18317,7 +18248,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-11 13:59:37.238471+01:00,15.9,2733,1,750,UK,Edinburgh,lebanese
 2015-06-12 19:34:30.223786+01:00,27.0,2733,1,678,UK,Edinburgh,lebanese
 2015-06-13 19:25:03.781931+01:00,46.0,2733,9,1201,UK,Edinburgh,lebanese
-2015-06-14 16:16:00.306539+01:00,199.0,2733,1,25873,UK,Edinburgh,lebanese
 2015-06-14 23:02:31.756714+01:00,17.0,2733,4,1483,UK,Edinburgh,lebanese
 2015-06-15 19:49:49.926145+01:00,25.9,2733,3,1377,UK,Edinburgh,lebanese
 2015-06-15 23:26:01.593349+01:00,26.9,2733,3,710,UK,Edinburgh,lebanese
@@ -18336,7 +18266,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-25 19:08:56.113964+01:00,31.9,2733,5,771,UK,Edinburgh,lebanese
 2015-06-25 21:51:01.706074+01:00,32.95,2733,5,2050,UK,Edinburgh,lebanese
 2015-06-26 13:28:22.589843+01:00,33.85,2733,3,1058,UK,Edinburgh,lebanese
-2015-06-26 14:53:24.519515+01:00,44.0,2733,9,21649,UK,Edinburgh,lebanese
 2015-06-26 21:25:55.882605+01:00,24.45,2733,2,942,UK,Edinburgh,lebanese
 2015-06-26 22:25:25.177115+01:00,26.9,2733,3,772,UK,Edinburgh,lebanese
 2015-06-27 20:16:01.616820+01:00,25.9,2733,3,1380,UK,Edinburgh,lebanese
@@ -18478,7 +18407,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-13 18:00:24.421248+01:00,36.5,56,3,1167,UK,London,italian
 2015-06-14 17:31:36.822496+01:00,15.0,56,1,329,UK,London,italian
 2015-06-15 14:33:28.812248+01:00,114.5,56,7,1267,UK,London,italian
-2015-06-16 12:57:58.063763+01:00,244.5,56,8,17698,UK,London,italian
 2015-06-16 12:57:52.762869+01:00,25.5,56,2,2746,UK,London,italian
 2015-06-17 13:21:21.692153+01:00,121.0,56,9,1229,UK,London,italian
 2015-06-17 21:52:43.678516+01:00,15.0,56,1,514,UK,London,italian
@@ -18757,11 +18685,9 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-16 13:40:20.457242+01:00,12.95,316,4,0,UK,London,healthy
 2015-06-26 13:01:51.759400+01:00,60.09,316,8,2794,UK,London,healthy
 2015-06-02 13:11:15.423104+01:00,39.55,329,5,769,UK,London,thai
-2015-06-02 15:19:14.382329+01:00,55.8,329,4,82944,UK,London,thai
 2015-06-02 20:48:13.153555+01:00,34.35,329,4,996,UK,London,thai
 2015-06-02 21:42:39.596297+01:00,16.9,329,2,643,UK,London,thai
 2015-06-02 23:46:22.826571+01:00,18.9,329,4,593,UK,London,thai
-2015-06-04 15:23:38.679442+01:00,53.8,329,4,82436,UK,London,thai
 2015-06-04 20:09:42.797863+01:00,32.15,329,5,809,UK,London,thai
 2015-06-05 15:57:27.838663+01:00,15.95,329,3,300,UK,London,thai
 2015-06-05 22:22:45.851117+01:00,17.95,329,3,336,UK,London,thai
@@ -18957,7 +18883,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-29 22:55:02.382223+01:00,14.9,1492,2,603,UK,Brighton,british
 2015-06-02 13:41:25.003337+01:00,15.0,808,5,781,UK,London,mexican
 2015-06-02 20:39:12.193256+01:00,15.5,808,6,720,UK,London,mexican
-2015-06-03 16:43:15.838562+01:00,90.0,808,9,76651,UK,London,mexican
 2015-06-04 13:13:56.734291+01:00,222.2,808,38,2811,UK,London,mexican
 2015-06-04 19:29:34.221030+01:00,25.0,808,5,332,UK,London,mexican
 2015-06-05 12:52:57.573957+01:00,19.5,808,7,6036,UK,London,mexican
@@ -18965,7 +18890,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-08 22:58:59.778840+01:00,66.5,808,8,689,UK,London,mexican
 2015-06-09 22:35:29.379345+01:00,18.5,808,4,589,UK,London,mexican
 2015-06-10 20:51:24.123984+01:00,17.5,808,5,589,UK,London,mexican
-2015-06-11 13:56:24.594180+01:00,398.0,808,8,83624,UK,London,mexican
 2015-06-11 20:59:49.825672+01:00,16.5,808,7,1089,UK,London,mexican
 2015-06-12 22:01:47.404404+01:00,12.0,808,4,1059,UK,London,mexican
 2015-06-15 15:10:17.698005+01:00,16.5,808,4,552,UK,London,mexican
@@ -19300,7 +19224,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-29 19:23:17.477684+01:00,26.5,2385,1,774,UK,Nottingham,japanese
 2015-06-29 21:34:19.016581+01:00,15.49,2385,3,462,UK,Nottingham,japanese
 2015-06-02 14:24:15.506764+01:00,22.2,271,4,671,UK,London,american
-2015-06-03 12:17:33.116794+01:00,42.0,271,5,91017,UK,London,american
 2015-06-06 15:47:15.518810+01:00,18.5,271,2,1171,UK,London,american
 2015-06-12 21:36:37.856805+01:00,30.5,271,3,1093,UK,London,american
 2015-06-02 14:25:11.298768+01:00,28.5,53,3,1073,UK,London,lebanese
@@ -19591,7 +19514,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-28 12:29:59.514035+01:00,17.5,1061,4,3215,UK,London,pan asian
 2015-06-28 17:09:16.465044+01:00,39.3,1061,5,620,UK,London,pan asian
 2015-06-29 22:20:29.842919+01:00,18.3,1061,3,439,UK,London,pan asian
-2015-06-30 15:24:14.972210+01:00,26.1,1061,4,80233,UK,London,pan asian
 2015-06-30 20:49:27.986583+01:00,29.1,1061,5,525,UK,London,pan asian
 2015-06-30 23:40:20.346470+01:00,29.8,1061,4,873,UK,London,pan asian
 2015-06-02 15:34:17.118891+01:00,11.4,347,3,11,UK,London,healthy
@@ -19820,7 +19742,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-29 15:13:20.982164+01:00,23.4,1295,3,1031,UK,Brighton,thai
 2015-06-29 20:10:35.763787+01:00,24.45,1295,2,1530,UK,Brighton,thai
 2015-06-30 17:35:08.331346+01:00,21.95,1295,3,710,UK,Brighton,thai
-2015-06-02 16:52:21.272406+02:00,12.0683,1993,4,15963,France,Paris,healthy
 2015-06-02 22:21:50.541721+02:00,15.26285,1993,4,84,France,Paris,healthy
 2015-06-03 20:36:47.226231+02:00,17.7475,1993,4,706,France,Paris,healthy
 2015-06-05 14:07:06.865021+02:00,12.7782,1993,4,545,France,Paris,healthy
@@ -19888,7 +19809,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-22 21:56:00.885522+01:00,24.3,731,2,843,UK,London,thai
 2015-06-22 22:05:39.065599+01:00,16.0,731,2,244,UK,London,thai
 2015-06-24 13:49:26.560876+01:00,230.9,731,17,3850,UK,London,thai
-2015-06-25 15:17:17.598055+01:00,128.2,731,15,79888,UK,London,thai
 2015-06-25 16:00:59.799929+01:00,30.8,731,4,536,UK,London,thai
 2015-06-25 16:36:22.691129+01:00,25.8,731,3,967,UK,London,thai
 2015-06-25 21:14:15.830706+01:00,33.3,731,5,772,UK,London,thai
@@ -19911,7 +19831,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-11 17:01:27.827865+01:00,15.0,2507,3,392,UK,London,indian
 2015-06-13 16:22:46.057428+01:00,46.5,2507,8,444,UK,London,indian
 2015-06-14 20:59:09.700188+01:00,44.0,2507,6,1916,UK,London,indian
-2015-06-17 14:44:16.566805+01:00,88.0,2507,4,82094,UK,London,indian
 2015-06-18 21:07:30.664544+01:00,27.0,2507,5,1689,UK,London,indian
 2015-06-21 22:07:20.064875+01:00,23.0,2507,3,1550,UK,London,indian
 2015-06-22 20:50:58.114587+01:00,60.5,2507,8,1524,UK,London,indian
@@ -20293,7 +20212,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-04 22:02:54.338479+01:00,15.9,2559,3,1158,UK,Liverpool,lebanese
 2015-06-04 22:16:19.907777+01:00,15.9,2559,2,1042,UK,Liverpool,lebanese
 2015-06-07 20:00:37.563406+01:00,15.9,2559,2,565,UK,Liverpool,lebanese
-2015-06-08 16:00:41.219244+01:00,15.9,2559,1,15053,UK,Liverpool,lebanese
 2015-06-10 18:29:28.824871+01:00,16.45,2559,2,720,UK,Liverpool,lebanese
 2015-06-10 20:06:24.145231+01:00,7.95,2559,1,1251,UK,Liverpool,lebanese
 2015-06-10 20:21:54.967540+01:00,21.9,2559,4,1698,UK,Liverpool,lebanese
@@ -20759,7 +20677,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-30 21:17:50.333637+01:00,25.05,43,5,758,UK,London,chinese
 2015-06-30 21:54:05.302589+01:00,21.6,43,5,754,UK,London,chinese
 2015-06-02 19:13:50.727122+01:00,18.5,1150,3,752,UK,London,italian
-2015-06-03 13:03:57.396860+01:00,16.0,1150,2,110198,UK,London,italian
 2015-06-04 18:45:56.625661+01:00,30.85,1150,4,828,UK,London,italian
 2015-06-06 13:36:30.840404+01:00,54.65,1150,4,0,UK,London,italian
 2015-06-07 13:57:02.577657+01:00,47.35,1150,3,890,UK,London,italian
@@ -20821,7 +20738,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-22 21:24:30.573008+01:00,23.2,1532,6,417,UK,Cambridge,burgers
 2015-06-24 21:54:24.756707+01:00,27.2,1532,5,1688,UK,Cambridge,burgers
 2015-06-25 19:09:13.435352+01:00,15.65,1532,3,2269,UK,Cambridge,burgers
-2015-06-27 14:06:20.736788+01:00,25.1,1532,4,16175,UK,Cambridge,burgers
 2015-06-27 20:03:26.205645+01:00,27.5,1532,4,785,UK,Cambridge,burgers
 2015-06-28 21:08:34.560175+01:00,16.35,1532,3,644,UK,Cambridge,burgers
 2015-06-30 22:26:14.664047+01:00,16.45,1532,4,381,UK,Cambridge,burgers
@@ -20848,7 +20764,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-09 19:50:13.488357+01:00,23.0,513,3,5,UK,London,pizza
 2015-06-10 20:30:41.639002+01:00,17.5,513,4,207,UK,London,pizza
 2015-06-10 21:01:01.012629+01:00,19.0,513,3,202,UK,London,pizza
-2015-06-11 12:35:34.565852+01:00,113.0,513,4,89946,UK,London,pizza
 2015-06-11 18:08:57.452184+01:00,34.0,513,2,3956,UK,London,pizza
 2015-06-12 19:42:08.652825+01:00,17.0,513,2,187,UK,London,pizza
 2015-06-12 20:11:33.243652+01:00,16.0,513,2,166,UK,London,pizza
@@ -21937,7 +21852,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-10 20:51:10.762294+01:00,22.5,59,4,1014,UK,London,persian
 2015-06-10 21:39:49.638717+01:00,18.8,59,1,1231,UK,London,persian
 2015-06-10 22:02:10.248141+01:00,22.5,59,1,1710,UK,London,persian
-2015-06-13 14:18:57.663740+01:00,98.2,59,6,17071,UK,London,persian
 2015-06-13 21:43:16.950706+01:00,59.1,59,7,1194,UK,London,persian
 2015-06-13 23:20:57.784964+01:00,15.4,59,2,1207,UK,London,persian
 2015-06-15 18:43:21.689035+01:00,17.4,59,2,1332,UK,London,persian
@@ -22123,7 +22037,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-16 13:53:41.226894+02:00,10.6485,1894,1,510,France,Paris,british
 2015-06-20 22:26:43.571764+02:00,31.9455,1894,4,1684,France,Paris,british
 2015-06-23 21:36:46.443853+02:00,10.79048,1894,2,271,France,Paris,british
-2015-06-25 13:13:16.239126+02:00,11.07444,1894,2,26525,France,Paris,british
 2015-06-02 20:24:39.582537+01:00,21.3,1499,4,867,UK,Brighton,thai
 2015-06-02 21:25:49.115310+01:00,15.85,1499,3,1183,UK,Brighton,thai
 2015-06-02 21:55:08.609492+01:00,23.85,1499,3,542,UK,Brighton,thai
@@ -22646,7 +22559,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-14 21:42:52.289733+01:00,14.6,1697,2,504,UK,Cambridge,fish and chips
 2015-06-17 19:35:06.202048+01:00,17.05,1697,3,266,UK,Cambridge,fish and chips
 2015-06-17 21:03:13.954893+01:00,15.5,1697,2,494,UK,Cambridge,fish and chips
-2015-06-18 22:35:32.909185+01:00,14.6,1697,2,57783,UK,Cambridge,fish and chips
 2015-06-19 18:44:36.829588+01:00,15.5,1697,4,284,UK,Cambridge,fish and chips
 2015-06-23 20:12:20.591914+01:00,26.5,1697,3,983,UK,Cambridge,fish and chips
 2015-06-23 22:23:13.776006+01:00,25.15,1697,3,700,UK,Cambridge,fish and chips
@@ -22846,7 +22758,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-16 21:38:02.965262+01:00,25.3,516,4,968,UK,London,burgers
 2015-06-17 20:46:25.508946+01:00,24.35,516,3,1241,UK,London,burgers
 2015-06-20 19:42:12.779728+01:00,18.15,516,3,1026,UK,London,burgers
-2015-06-21 13:06:07.373374+01:00,27.25,516,7,16184,UK,London,burgers
 2015-06-21 13:06:07.364811+01:00,16.65,516,3,1977,UK,London,burgers
 2015-06-21 18:23:06.172369+01:00,59.45,516,9,400,UK,London,burgers
 2015-06-26 13:42:34.694368+01:00,16.3,516,5,897,UK,London,burgers
@@ -23063,7 +22974,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-25 23:16:21.554832+01:00,40.35,1498,6,1406,UK,Manchester,italian
 2015-06-02 21:12:30.088762+01:00,49.0,2371,6,1000,UK,London,italian
 2015-06-03 19:51:04.908473+01:00,45.0,2371,3,1076,UK,London,italian
-2015-06-09 14:26:49.472935+01:00,25.0,2371,3,83720,UK,London,italian
 2015-06-09 18:48:33.104785+01:00,16.0,2371,2,1768,UK,London,italian
 2015-06-11 14:22:06.974909+01:00,24.0,2371,3,493,UK,London,italian
 2015-06-12 23:22:17.204499+01:00,20.0,2371,3,825,UK,London,italian
@@ -23547,7 +23457,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-12 20:46:45.725560+01:00,21.75,1160,6,7038,UK,Oxford,lebanese
 2015-06-12 22:57:56.515199+01:00,21.7,1160,4,941,UK,Oxford,lebanese
 2015-06-12 23:14:43.664947+01:00,26.1,1160,6,1107,UK,Oxford,lebanese
-2015-06-13 15:06:54.640359+01:00,21.9,1160,3,18194,UK,Oxford,lebanese
 2015-06-13 19:24:22.386585+01:00,23.9,1160,6,4522,UK,Oxford,lebanese
 2015-06-14 20:10:29.576499+01:00,16.45,1160,5,841,UK,Oxford,lebanese
 2015-06-14 20:33:00.821770+01:00,27.4,1160,8,815,UK,Oxford,lebanese
@@ -23610,7 +23519,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-09 22:23:50.123231+01:00,16.7,2178,2,161,UK,London,italian
 2015-06-10 20:38:14.394057+01:00,16.65,2178,3,1141,UK,London,italian
 2015-06-17 18:04:19.060038+01:00,27.5,2178,5,1142,UK,London,italian
-2015-06-17 19:19:23.235729+01:00,352.55,2178,23,85572,UK,London,italian
 2015-06-21 18:41:20.527860+01:00,20.35,2178,3,287,UK,London,italian
 2015-06-22 21:50:31.918701+01:00,62.0,2178,6,952,UK,London,italian
 2015-06-23 18:47:07.014207+01:00,19.15,2178,3,75,UK,London,italian
@@ -23894,7 +23802,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-16 13:43:20.781955+01:00,20.9,1404,2,628,UK,London,italian
 2015-06-16 15:58:29.622204+01:00,18.7,1404,3,1287,UK,London,italian
 2015-06-18 18:38:50.295178+01:00,26.95,1404,3,694,UK,London,italian
-2015-06-19 09:00:21.902193+01:00,21.85,1404,2,16109,UK,London,italian
 2015-06-19 19:00:56.140932+01:00,16.4,1404,3,412,UK,London,italian
 2015-06-19 20:28:58.719673+01:00,17.45,1404,2,438,UK,London,italian
 2015-06-19 22:15:49.172769+01:00,25.05,1404,4,640,UK,London,italian
@@ -24052,7 +23959,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-19 19:03:03.376624+01:00,19.9,2895,5,987,UK,Edinburgh,greek
 2015-06-19 20:06:28.635744+01:00,16.5,2895,3,522,UK,Edinburgh,greek
 2015-06-25 15:55:37.449953+01:00,16.0,2895,1,951,UK,Edinburgh,greek
-2015-06-25 16:31:31.747823+01:00,21.0,2895,1,16390,UK,Edinburgh,greek
 2015-06-26 13:18:49.195289+01:00,20.6,2895,4,2300,UK,Edinburgh,greek
 2015-06-28 21:31:47.946388+01:00,7.8,2895,1,1555,UK,Edinburgh,greek
 2015-06-28 22:09:03.435595+01:00,16.4,2895,3,831,UK,Edinburgh,greek
@@ -24462,7 +24368,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-15 20:45:02.842674+01:00,24.45,1442,3,121,UK,London,italian
 2015-06-16 21:39:13.537619+01:00,18.9,1442,2,1017,UK,London,italian
 2015-06-18 22:50:12.793654+01:00,37.2,1442,5,816,UK,London,italian
-2015-06-19 13:19:24.219912+01:00,25.45,1442,3,27885,UK,London,italian
 2015-06-19 20:52:49.330824+01:00,21.2,1442,4,680,UK,London,italian
 2015-06-21 19:15:52.590779+01:00,32.5,1442,5,1163,UK,London,italian
 2015-06-22 20:38:38.382312+01:00,26.05,1442,3,448,UK,London,italian
@@ -24513,7 +24418,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-27 13:36:13.081613+01:00,15.4,2710,3,483,UK,London,mexican
 2015-06-28 13:35:33.133719+01:00,18.5,2710,5,1454,UK,London,mexican
 2015-06-28 14:33:31.495906+01:00,15.55,2710,3,559,UK,London,mexican
-2015-06-29 08:58:12.799995+01:00,18.45,2710,1,31831,UK,London,mexican
 2015-06-03 14:36:53.704555+01:00,31.75,1311,4,694,UK,London,thai
 2015-06-05 19:42:45.282162+01:00,22.0,1311,3,568,UK,London,thai
 2015-06-05 20:31:17.579769+01:00,50.35,1311,7,1564,UK,London,thai
@@ -24549,7 +24453,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-28 21:06:31.008697+01:00,26.7,1311,3,483,UK,London,thai
 2015-06-29 13:14:10.025325+01:00,20.25,1311,2,442,UK,London,thai
 2015-06-29 15:20:33.294732+01:00,26.75,1311,4,1105,UK,London,thai
-2015-06-03 14:38:37.930262+01:00,38.55,2117,5,107307,UK,London,italian
 2015-06-05 18:33:34.327534+01:00,16.3,2117,2,736,UK,London,italian
 2015-06-08 20:53:11.352638+01:00,21.05,2117,3,952,UK,London,italian
 2015-06-12 21:22:07.136379+01:00,23.0,2117,1,1135,UK,London,italian
@@ -24689,7 +24592,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-16 13:32:00.004506+01:00,17.8,188,2,476,UK,London,healthy
 2015-06-16 14:45:42.127892+01:00,24.3,188,3,1747,UK,London,healthy
 2015-06-17 12:18:44.872971+01:00,16.74,188,3,2298,UK,London,healthy
-2015-06-17 13:49:13.373098+01:00,31.75,188,3,20629,UK,London,healthy
 2015-06-17 20:11:08.157030+01:00,15.95,188,3,1319,UK,London,healthy
 2015-06-18 12:07:14.133183+01:00,19.65,188,3,7060,UK,London,healthy
 2015-06-18 13:37:06.952886+01:00,15.75,188,2,1410,UK,London,healthy
@@ -24759,7 +24661,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-20 13:33:29.343366+01:00,15.6,128,1,1984,UK,London,juices
 2015-06-22 12:10:42.298212+01:00,42.0,128,2,1848,UK,London,juices
 2015-06-22 12:13:13.187766+01:00,25.2,128,3,1697,UK,London,juices
-2015-06-22 12:54:38.599031+01:00,46.0,128,6,85444,UK,London,juices
 2015-06-22 13:07:47.235593+01:00,7.8,128,1,191,UK,London,juices
 2015-06-23 12:01:48.114061+01:00,15.0,128,2,2215,UK,London,juices
 2015-06-23 15:47:29.278932+01:00,16.2,128,2,777,UK,London,juices
@@ -24828,7 +24729,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-30 22:47:16.901857+01:00,39.1,78,3,2610,UK,London,argentinian
 2015-06-03 16:31:19.322163+01:00,16.2,1313,2,0,UK,London,japanese
 2015-06-04 21:05:47.037275+01:00,20.2,1313,3,2179,UK,London,japanese
-2015-06-05 16:49:00.264080+01:00,15.0,1313,3,15854,UK,London,japanese
 2015-06-05 20:13:20.725252+01:00,16.7,1313,2,840,UK,London,japanese
 2015-06-05 21:22:42.953706+01:00,30.0,1313,6,2153,UK,London,japanese
 2015-06-05 21:42:47.475551+01:00,19.95,1313,3,1106,UK,London,japanese
@@ -24961,7 +24861,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-24 14:34:56.658391+01:00,23.7,2839,8,1182,UK,Leeds,american
 2015-06-25 20:10:08.122959+01:00,24.4,2839,3,685,UK,Leeds,american
 2015-06-25 22:52:59.846961+01:00,19.4,2839,3,965,UK,Leeds,american
-2015-06-26 13:01:53.130846+01:00,17.95,2839,6,28000,UK,Leeds,american
 2015-06-26 15:03:38.206773+01:00,27.95,2839,6,795,UK,Leeds,american
 2015-06-26 17:54:46.654076+01:00,17.35,2839,6,1203,UK,Leeds,american
 2015-06-26 18:09:07.649221+01:00,22.1,2839,3,1154,UK,Leeds,american
@@ -25430,7 +25329,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-16 22:59:58.223175+01:00,24.5,2892,3,1017,UK,London,american
 2015-06-17 22:22:48.182477+01:00,142.0,2892,6,1993,UK,London,american
 2015-06-18 12:50:34.195322+01:00,24.0,2892,4,3616,UK,London,american
-2015-06-18 13:33:22.034360+01:00,711.0,2892,4,108133,UK,London,american
 2015-06-18 20:49:33.945207+01:00,36.5,2892,4,937,UK,London,american
 2015-06-18 23:45:19.978909+01:00,15.0,2892,4,532,UK,London,american
 2015-06-18 23:46:05.549596+01:00,17.0,2892,6,695,UK,London,american
@@ -25449,7 +25347,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-24 20:21:40.489349+01:00,40.0,2892,4,529,UK,London,american
 2015-06-24 20:44:02.550382+01:00,15.0,2892,3,834,UK,London,american
 2015-06-25 12:40:15.647604+01:00,27.5,2892,5,3852,UK,London,american
-2015-06-25 15:10:35.713289+01:00,174.0,2892,9,80956,UK,London,american
 2015-06-26 12:01:07.363398+01:00,113.9,2892,12,5966,UK,London,american
 2015-06-27 16:21:05.626538+01:00,46.5,2892,4,1307,UK,London,american
 2015-06-27 22:26:40.229814+01:00,24.5,2892,7,1180,UK,London,american
@@ -25473,7 +25370,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-24 19:09:03.172402+01:00,15.15,811,5,14,UK,London,italian
 2015-06-24 20:30:27.962639+01:00,32.35,811,4,16,UK,London,italian
 2015-06-29 15:02:15.711013+01:00,15.17,811,4,44,UK,London,italian
-2015-07-01 14:10:34.915211+01:00,107.5,811,8,20462,UK,London,italian
 2015-06-03 19:29:19.679053+01:00,27.0,1097,6,2365,UK,Manchester,japanese
 2015-06-03 20:04:22.733570+01:00,17.1,1097,2,318,UK,Manchester,japanese
 2015-06-04 19:31:37.054639+01:00,16.7,1097,3,1654,UK,Manchester,japanese
@@ -25806,7 +25702,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-16 19:09:40.901870+01:00,15.0,988,1,708,UK,London,pizza
 2015-06-18 20:04:52.594580+01:00,47.0,988,3,720,UK,London,pizza
 2015-06-23 20:28:00.437304+01:00,32.0,988,1,475,UK,London,pizza
-2015-06-24 13:50:47.822808+01:00,27.0,988,2,15234,UK,London,pizza
 2015-06-25 20:07:12.811855+01:00,48.0,988,1,415,UK,London,pizza
 2015-06-27 20:22:19.425574+01:00,17.0,988,2,1274,UK,London,pizza
 2015-06-27 20:44:53.358579+01:00,21.0,988,2,672,UK,London,pizza
@@ -26677,7 +26572,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-26 20:24:04.204078+01:00,24.45,114,4,818,UK,London,greek
 2015-06-26 20:26:41.177701+01:00,17.45,114,3,651,UK,London,greek
 2015-06-27 12:03:56.460435+01:00,24.0,114,3,2776,UK,London,greek
-2015-06-30 12:09:48.124434+01:00,300.0,114,5,108401,UK,London,greek
 2015-06-04 14:23:29.775742+01:00,15.9,933,4,748,UK,Brighton,chicken
 2015-06-04 19:40:54.867273+01:00,36.05,933,10,3229,UK,Brighton,chicken
 2015-06-04 20:35:40.071886+01:00,15.85,933,5,1006,UK,Brighton,chicken
@@ -26720,8 +26614,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-07 20:00:20.329102+01:00,16.25,1181,2,2647,UK,Oxford,lebanese
 2015-06-07 22:23:13.509225+01:00,17.25,1181,3,1138,UK,Oxford,lebanese
 2015-06-08 14:55:57.111964+01:00,19.25,1181,3,1488,UK,Oxford,lebanese
-2015-06-09 15:46:20.790796+01:00,123.25,1181,17,97086,UK,Oxford,lebanese
-2015-06-10 12:57:10.386263+01:00,18.25,1181,5,28957,UK,Oxford,lebanese
 2015-06-10 19:30:04.515718+01:00,28.25,1181,7,615,UK,Oxford,lebanese
 2015-06-12 17:51:55.795870+01:00,18.75,1181,3,1432,UK,Oxford,lebanese
 2015-06-12 21:34:42.547321+01:00,25.0,1181,3,984,UK,Oxford,lebanese
@@ -26946,7 +26838,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-06 19:24:51.817912+01:00,37.85,1001,3,4390,UK,London,south american
 2015-06-13 13:37:44.169034+01:00,15.85,1001,3,1766,UK,London,south american
 2015-06-26 21:59:19.823750+01:00,19.3,1001,4,1374,UK,London,south american
-2015-06-29 12:52:44.277423+01:00,19.35,1001,2,89751,UK,London,south american
 2015-06-04 17:41:32.714742+01:00,24.5,2509,3,1000,UK,London,seafood
 2015-06-07 12:49:05.822711+01:00,22.5,2509,5,2990,UK,London,seafood
 2015-06-12 12:31:30.323684+01:00,41.0,2509,2,3590,UK,London,seafood
@@ -27101,7 +26992,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-22 20:52:35.151259+01:00,34.4,1539,4,1163,UK,Brighton,italian
 2015-06-22 21:15:40.849961+01:00,22.0,1539,1,1149,UK,Brighton,italian
 2015-06-25 20:43:24.261283+01:00,18.4,1539,3,841,UK,Brighton,italian
-2015-06-26 14:58:34.631653+01:00,32.8,1539,4,21798,UK,Brighton,italian
 2015-06-26 18:41:53.478678+01:00,35.35,1539,4,3978,UK,Brighton,italian
 2015-06-29 18:47:00.435021+01:00,15.5,1539,3,525,UK,Brighton,italian
 2015-06-30 18:23:40.269102+01:00,25.85,1539,3,942,UK,Brighton,italian
@@ -27198,7 +27088,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-24 21:19:08.019597+01:00,24.0,257,4,1955,UK,London,european
 2015-06-04 21:00:00.440385+01:00,18.5,1725,3,7041,UK,Bristol,pan asian
 2015-06-04 22:04:03.740589+01:00,31.85,1725,5,720,UK,Bristol,pan asian
-2015-06-05 15:05:24.319374+01:00,49.25,1725,8,20762,UK,Bristol,pan asian
 2015-06-05 20:55:38.898562+01:00,68.85,1725,7,463,UK,Bristol,pan asian
 2015-06-06 15:15:24.462334+01:00,24.95,1725,3,397,UK,Bristol,pan asian
 2015-06-09 19:37:35.993934+01:00,42.45,1725,6,1430,UK,Bristol,pan asian
@@ -27485,7 +27374,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-14 13:15:31.545370+01:00,30.3,2514,5,1647,UK,London,italian
 2015-06-17 18:00:03.553625+01:00,21.45,2514,3,1140,UK,London,italian
 2015-06-19 19:03:11.784689+01:00,23.45,2514,3,597,UK,London,italian
-2015-06-26 13:17:27.445028+01:00,33.9,2514,5,37650,UK,London,italian
 2015-06-26 21:35:39.428816+01:00,38.25,2514,6,1864,UK,London,italian
 2015-06-26 23:06:56.863308+01:00,24.35,2514,4,643,UK,London,italian
 2015-06-28 14:44:39.459099+01:00,15.55,2514,4,1235,UK,London,italian
@@ -27534,7 +27422,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-10 22:20:48.050063+01:00,19.4,2816,2,306,UK,London,italian
 2015-06-10 23:12:35.143717+01:00,19.95,2816,2,372,UK,London,italian
 2015-06-12 14:04:08.746697+01:00,17.9,2816,3,372,UK,London,italian
-2015-06-14 15:05:27.683653+01:00,22.85,2816,3,15536,UK,London,italian
 2015-06-17 19:30:56.538867+01:00,20.4,2816,2,2870,UK,London,italian
 2015-06-18 21:28:38.830524+01:00,13.9,2816,2,765,UK,London,italian
 2015-06-18 23:09:25.515147+01:00,9.95,2816,1,342,UK,London,italian
@@ -27567,7 +27454,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-12 13:24:14.234912+01:00,33.8,1915,5,1838,UK,Birmingham,japanese
 2015-06-12 16:14:43.981416+01:00,20.4,1915,3,1495,UK,Birmingham,japanese
 2015-06-12 21:30:47.356543+01:00,29.75,1915,5,1082,UK,Birmingham,japanese
-2015-06-21 15:05:06.917896+01:00,30.4,1915,5,15297,UK,Birmingham,japanese
 2015-06-05 12:17:55.514555+01:00,27.15,1254,4,4023,UK,London,indian
 2015-06-16 20:02:16.656142+01:00,48.4,1254,7,1207,UK,London,indian
 2015-06-16 21:38:04.643911+01:00,42.4,1254,12,1156,UK,London,indian
@@ -27641,7 +27527,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-26 13:47:04.456543+02:00,37.26975,1906,3,350,France,Paris,american
 2015-06-29 13:25:41.631697+02:00,18.4574,1906,1,972,France,Paris,american
 2015-06-05 12:49:13.298720+01:00,88.43,317,11,2408,UK,London,healthy
-2015-06-10 12:09:27.585554+01:00,50.62,317,8,90758,UK,London,healthy
 2015-06-10 13:08:48.543841+01:00,21.96,317,3,92,UK,London,healthy
 2015-06-17 12:16:43.618399+01:00,138.01,317,19,6458,UK,London,healthy
 2015-06-17 14:24:33.238954+01:00,13.97,317,3,1017,UK,London,healthy
@@ -27756,7 +27641,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-05 22:39:29.187074+01:00,16.25,2908,3,1031,UK,London,healthy
 2015-06-08 15:15:03.553692+01:00,15.15,2908,2,121,UK,London,healthy
 2015-06-08 19:27:02.574933+01:00,24.75,2908,4,509,UK,London,healthy
-2015-06-09 18:34:37.783959+01:00,96.25,2908,3,68055,UK,London,healthy
 2015-06-09 21:40:25.870334+01:00,10.15,2908,2,176,UK,London,healthy
 2015-06-10 13:16:19.625630+01:00,28.65,2908,2,747,UK,London,healthy
 2015-06-11 14:09:12.039418+01:00,15.55,2908,2,320,UK,London,healthy
@@ -28290,7 +28174,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-08 18:51:34.853123+01:00,12.45,2513,2,992,UK,London,fish and chips
 2015-06-09 17:54:46.255240+01:00,49.6,2513,6,1073,UK,London,fish and chips
 2015-06-09 19:55:17.016877+01:00,36.2,2513,4,1003,UK,London,fish and chips
-2015-06-10 15:29:24.251035+01:00,30.7,2513,4,15904,UK,London,fish and chips
 2015-06-11 13:35:58.123555+01:00,15.2,2513,4,664,UK,London,fish and chips
 2015-06-12 20:03:56.331350+01:00,27.5,2513,3,528,UK,London,fish and chips
 2015-06-12 20:06:23.274389+01:00,23.3,2513,2,380,UK,London,fish and chips
@@ -28389,7 +28272,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-28 21:01:14.705740+01:00,19.45,40,3,1302,UK,London,lebanese
 2015-06-29 13:37:11.329173+01:00,28.45,40,3,1289,UK,London,lebanese
 2015-06-29 18:30:35.125349+01:00,25.05,40,4,1063,UK,London,lebanese
-2015-06-30 17:46:06.861679+01:00,133.8,40,8,67371,UK,London,lebanese
 2015-06-30 21:06:45.552601+01:00,34.6,40,6,2565,UK,London,lebanese
 2015-06-05 20:29:53.553481+01:00,16.35,2824,5,1377,UK,Glasgow,fish and chips
 2015-06-06 20:19:04.502797+01:00,18.4,2824,6,708,UK,Glasgow,fish and chips
@@ -28450,7 +28332,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-12 19:56:06.644894+01:00,42.2,1526,6,1609,UK,Manchester,persian
 2015-06-17 21:07:34.131695+01:00,23.9,1526,3,1217,UK,Manchester,persian
 2015-06-18 21:55:00.084187+01:00,43.8,1526,7,1760,UK,Manchester,persian
-2015-06-30 16:22:14.401710+01:00,65.5,1526,10,98865,UK,Manchester,persian
 2015-06-05 20:55:26.999347+01:00,15.5,1208,3,558,UK,London,turkish
 2015-06-08 12:31:25.737517+01:00,6.9,1208,2,4494,UK,London,turkish
 2015-06-08 19:43:45.267870+01:00,21.0,1208,4,867,UK,London,turkish
@@ -28511,7 +28392,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-27 20:51:21.875498+01:00,42.9,842,3,1657,UK,London,persian
 2015-06-29 21:45:10.694076+01:00,39.9,842,4,967,UK,London,persian
 2015-06-05 20:48:43.374858+01:00,46.0,2749,1,1011,UK,Liverpool,american
-2015-06-06 15:29:28.102290+01:00,46.0,2749,9,17015,UK,Liverpool,american
 2015-06-06 21:26:02.610369+01:00,43.0,2749,9,2311,UK,Liverpool,american
 2015-06-06 21:58:34.892865+01:00,27.0,2749,5,1812,UK,Liverpool,american
 2015-06-12 19:33:35.226381+01:00,46.0,2749,1,1119,UK,Liverpool,american
@@ -28870,7 +28750,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-10 22:36:53.739497+02:00,9.58365,2333,2,474,Germany,Berlin,burgers
 2015-06-14 21:21:03.015927+02:00,11.3584,2333,2,3488,Germany,Berlin,burgers
 2015-06-21 14:40:50.600636+02:00,10.6485,2333,2,926,Germany,Berlin,burgers
-2015-06-06 14:47:44.385357+01:00,29.75,1389,3,15848,UK,London,italian
 2015-06-07 22:26:31.226211+01:00,16.95,1389,3,1293,UK,London,italian
 2015-06-13 12:38:35.136653+01:00,23.25,1389,3,2744,UK,London,italian
 2015-06-16 21:23:04.083962+01:00,24.15,1389,4,1570,UK,London,italian
@@ -28906,7 +28785,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-28 13:48:07.218003+01:00,12.65,44,4,746,UK,London,lebanese
 2015-06-28 14:37:52.043181+01:00,26.95,44,9,897,UK,London,lebanese
 2015-06-06 15:56:14.225999+01:00,58.45,2592,7,1153,UK,Edinburgh,italian
-2015-06-10 11:05:59.147352+01:00,62.05,2592,5,96664,UK,Edinburgh,italian
 2015-06-06 16:10:40.481664+01:00,21.75,2806,3,1570,UK,Glasgow,italian
 2015-06-06 20:06:48.230834+01:00,16.9,2806,3,1664,UK,Glasgow,italian
 2015-06-12 20:36:59.670800+01:00,16.3,2806,2,880,UK,Glasgow,italian
@@ -29289,10 +29167,8 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-06 21:03:19.626371+01:00,37.75,1718,3,1066,UK,Cambridge,pizza
 2015-06-07 14:08:06.617923+01:00,22.75,1718,2,593,UK,Cambridge,pizza
 2015-06-10 20:59:56.336873+01:00,22.75,1718,2,332,UK,Cambridge,pizza
-2015-06-11 11:14:20.499378+01:00,25.75,1718,2,33899,UK,Cambridge,pizza
 2015-06-12 19:06:14.413562+01:00,20.0,1718,1,6077,UK,Cambridge,pizza
 2015-06-13 13:56:00.963688+01:00,39.5,1718,2,623,UK,Cambridge,pizza
-2015-06-13 16:10:20.339917+01:00,16.4,1718,3,16641,UK,Cambridge,pizza
 2015-06-14 16:21:06.149883+01:00,20.0,1718,1,6555,UK,Cambridge,pizza
 2015-06-14 18:49:10.151772+01:00,15.4,1718,2,644,UK,Cambridge,pizza
 2015-06-17 17:21:15.872818+01:00,17.9,1718,2,241,UK,Cambridge,pizza
@@ -29470,10 +29346,8 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-18 21:23:32.292248+01:00,23.1,2730,2,317,UK,Edinburgh,lebanese
 2015-06-19 15:52:00.048471+01:00,43.95,2730,7,862,UK,Edinburgh,lebanese
 2015-06-21 12:11:58.000609+01:00,43.0,2730,7,5050,UK,Edinburgh,lebanese
-2015-06-27 17:33:29.621426+01:00,25.6,2730,5,18449,UK,Edinburgh,lebanese
 2015-06-27 21:24:08.196244+01:00,21.6,2730,3,790,UK,Edinburgh,lebanese
 2015-06-28 13:19:34.458511+01:00,15.6,2730,3,453,UK,Edinburgh,lebanese
-2015-06-28 18:30:23.850217+01:00,18.45,2730,2,14853,UK,Edinburgh,lebanese
 2015-06-29 16:40:55.606611+01:00,42.9,2730,7,608,UK,Edinburgh,lebanese
 2015-06-07 16:20:58.742517+01:00,34.0,1403,4,1467,UK,London,british
 2015-06-07 16:31:47.605532+01:00,18.0,1403,3,1664,UK,London,british
@@ -29528,9 +29402,7 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-26 19:12:59.724526+01:00,31.0,2228,10,1051,UK,London,british
 2015-06-07 18:17:16.928832+01:00,15.4,932,2,5202,UK,Brighton,japanese
 2015-06-07 19:23:09.384783+01:00,26.6,932,4,1256,UK,Brighton,japanese
-2015-06-08 13:20:12.178337+01:00,32.4,932,3,15232,UK,Brighton,japanese
 2015-06-08 20:06:18.054602+01:00,16.4,932,2,2425,UK,Brighton,japanese
-2015-06-13 16:52:35.820220+01:00,18.3,932,3,14535,UK,Brighton,japanese
 2015-06-13 19:19:03.189180+01:00,17.4,932,2,3024,UK,Brighton,japanese
 2015-06-14 15:16:47.841285+01:00,16.9,932,2,1149,UK,Brighton,japanese
 2015-06-14 20:20:04.531748+01:00,23.85,932,3,1003,UK,Brighton,japanese
@@ -29774,7 +29646,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-18 22:48:58.588310+01:00,17.7,2804,2,1610,UK,Glasgow,persian
 2015-06-21 20:23:20.146855+01:00,22.85,2804,4,892,UK,Glasgow,persian
 2015-06-26 21:34:26.568770+01:00,30.4,2804,5,1033,UK,Glasgow,persian
-2015-06-30 13:06:56.189585+01:00,44.35,2804,4,14990,UK,Glasgow,persian
 2015-06-30 15:44:29.328588+01:00,15.1,2804,2,1281,UK,Glasgow,persian
 2015-06-08 13:10:57.877350+01:00,17.6,1069,3,2646,UK,London,deli
 2015-06-08 13:10:52.312719+01:00,15.0,1069,6,1034,UK,London,deli
@@ -29934,7 +29805,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-25 21:22:53.967347+02:00,24.1366,2483,3,62,France,Paris,indian
 2015-06-26 22:37:05.972472+02:00,48.9831,2483,6,1083,France,Paris,indian
 2015-06-30 20:08:01.886407+02:00,11.3584,2483,2,200,France,Paris,indian
-2015-06-08 22:39:05.884088+02:00,11.71335,2474,1,53161,France,Paris,french
 2015-06-10 20:14:51.316508+02:00,20.5871,2474,2,1475,France,Paris,french
 2015-06-11 21:23:18.152880+02:00,16.04374,2474,1,178,France,Paris,french
 2015-06-13 21:27:17.531217+02:00,12.42325,2474,1,219,France,Paris,french
@@ -29981,7 +29851,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-14 16:17:17.368816+01:00,11.3584,2377,4,723,Ireland,Dublin,bakery
 2015-06-16 14:08:39.399243+01:00,26.2663,2377,8,1422,Ireland,Dublin,bakery
 2015-06-18 14:10:22.972958+01:00,27.33115,2377,9,769,Ireland,Dublin,bakery
-2015-06-26 08:09:19.030165+01:00,47.91825,2377,7,19885,Ireland,Dublin,bakery
 2015-06-28 18:06:00.834865+01:00,11.00345,2377,5,998,Ireland,Dublin,bakery
 2015-06-09 14:05:47.053435+02:00,13.91404,2458,2,94,France,Paris,italian
 2015-06-09 13:23:44.211806+01:00,15.5,1091,4,1269,UK,Manchester,american
@@ -30139,7 +30008,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-26 18:37:43.349430+01:00,15.7,2866,4,610,UK,Birmingham,dessert
 2015-06-09 23:53:44.347788+01:00,15.2,2184,2,266,UK,London,indian
 2015-06-10 11:20:44.965594+01:00,10.6485,2913,1,8054,Ireland,Dublin,healthy
-2015-06-11 19:10:08.371495+01:00,35.14005,2913,5,68253,Ireland,Dublin,healthy
 2015-06-12 11:42:27.834945+01:00,12.0683,2913,2,6100,Ireland,Dublin,healthy
 2015-06-13 15:30:28.500522+01:00,12.0683,2913,2,905,Ireland,Dublin,healthy
 2015-06-14 16:59:47.906246+01:00,19.8772,2913,3,876,Ireland,Dublin,healthy
@@ -30172,7 +30040,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-10 12:59:05.101105+01:00,24.1366,1739,3,2611,Ireland,Dublin,thai
 2015-06-24 20:57:15.536491+01:00,11.00345,1739,2,1191,Ireland,Dublin,thai
 2015-06-10 12:43:08.437764+01:00,133.7,781,17,3388,UK,London,british
-2015-06-15 17:04:55.063016+01:00,55.6,781,3,73602,UK,London,british
 2015-06-10 12:37:01.188799+01:00,40.55,1351,6,2719,UK,London,french
 2015-06-10 12:48:59.885846+01:00,15.0,535,4,3873,UK,London,international
 2015-06-11 12:30:34.002021+01:00,23.1,535,7,4005,UK,London,international
@@ -30239,8 +30106,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-27 15:52:27.576858+02:00,12.7782,2948,3,443,France,Paris,american
 2015-06-27 16:27:21.336324+02:00,14.9079,2948,2,287,France,Paris,american
 2015-06-29 13:37:03.069662+02:00,11.3584,2948,2,0,France,Paris,american
-2015-06-10 13:45:24.282377+01:00,31.9,2945,1,20358,UK,Guildford,argentinian
-2015-06-11 23:01:37.301937+01:00,32.85,2945,3,73969,UK,Guildford,argentinian
 2015-06-12 16:38:16.657614+01:00,26.85,2945,3,13043,UK,Guildford,argentinian
 2015-06-12 18:18:57.183063+01:00,36.8,2945,4,1198,UK,Guildford,argentinian
 2015-06-12 18:29:41.791682+01:00,53.2,2945,6,775,UK,Guildford,argentinian
@@ -30248,7 +30113,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-12 20:46:38.559357+01:00,26.8,2945,5,1612,UK,Guildford,argentinian
 2015-06-18 20:15:18.958991+01:00,21.45,2945,3,624,UK,Guildford,argentinian
 2015-06-19 15:04:23.778203+01:00,31.8,2945,6,1813,UK,Guildford,argentinian
-2015-06-20 15:24:10.146685+01:00,36.3,2945,4,18445,UK,Guildford,argentinian
 2015-06-20 19:22:02.949319+01:00,34.8,2945,4,9098,UK,Guildford,argentinian
 2015-06-22 19:06:27.536794+01:00,25.85,2945,3,905,UK,Guildford,argentinian
 2015-06-23 19:33:58.516969+01:00,25.4,2945,3,1016,UK,Guildford,argentinian
@@ -30266,7 +30130,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-17 18:25:11.172920+01:00,19.5,222,3,1047,UK,London,juices
 2015-06-22 16:12:20.244376+01:00,17.0,222,2,991,UK,London,juices
 2015-06-24 15:30:08.269520+01:00,16.0,222,2,431,UK,London,juices
-2015-06-29 11:19:12.668625+01:00,49.0,222,4,92279,UK,London,juices
 2015-06-30 16:03:47.202894+01:00,34.0,222,1,16,UK,London,juices
 2015-06-10 14:22:29.970461+01:00,31.3,1089,5,589,UK,London,european
 2015-06-12 14:14:08.595487+01:00,17.4,1089,3,466,UK,London,european
@@ -30346,7 +30209,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-21 20:49:23.776019+01:00,18.4,2161,2,521,UK,London,vietnamese
 2015-06-11 12:30:55.685980+01:00,106.25,1249,7,3275,UK,London,british
 2015-06-20 19:31:12.447251+01:00,63.35,1249,4,4824,UK,London,british
-2015-06-11 13:34:35.888119+01:00,75.0,2951,1,86338,UK,London,bakery
 2015-06-11 12:00:41.317397+01:00,26.6,1678,2,4739,UK,London,japanese
 2015-06-24 20:23:52.350211+01:00,68.4,1678,8,1249,UK,London,japanese
 2015-06-11 12:31:13.373053+01:00,65.1,1489,19,2961,UK,London,chicken
@@ -30427,7 +30289,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-12 21:18:21.223113+02:00,28.89293,2994,3,530,France,Paris,vietnamese
 2015-06-17 21:17:25.789048+02:00,18.31542,2994,2,9,France,Paris,vietnamese
 2015-06-20 21:54:07.682533+02:00,20.44512,2994,2,65,France,Paris,vietnamese
-2015-06-22 15:31:28.959196+02:00,36.70183,2994,4,19495,France,Paris,vietnamese
 2015-06-24 22:22:55.070598+02:00,28.11204,2994,4,77,France,Paris,vietnamese
 2015-06-27 22:09:04.082259+02:00,29.60283,2994,4,1111,France,Paris,vietnamese
 2015-06-29 21:53:51.042446+02:00,14.48196,2994,2,839,France,Paris,vietnamese
@@ -30595,7 +30456,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-17 22:38:54.129249+01:00,15.8,2327,2,1009,UK,London,italian
 2015-06-12 15:52:56.288308+01:00,71.4,1079,7,393,UK,London,pizza
 2015-06-19 22:02:05.524259+01:00,36.4,1079,4,31,UK,London,pizza
-2015-06-20 13:06:28.931762+01:00,22.0,1079,1,27109,UK,London,pizza
 2015-06-20 14:14:22.454531+01:00,31.0,1079,2,1528,UK,London,pizza
 2015-06-23 20:43:37.903387+01:00,14.75,1079,2,2070,UK,London,pizza
 2015-06-28 21:11:55.890086+01:00,20.0,1079,2,823,UK,London,pizza
@@ -30893,7 +30753,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-25 19:30:25.421699+01:00,29.55,2143,5,1867,UK,London,italian
 2015-06-25 21:07:50.220918+01:00,18.3,2143,2,1221,UK,London,italian
 2015-06-25 21:33:12.253979+01:00,12.85,2143,1,655,UK,London,italian
-2015-06-27 16:05:30.124724+01:00,32.9,2143,3,15576,UK,London,italian
 2015-06-27 20:16:20.225631+01:00,24.3,2143,2,857,UK,London,italian
 2015-06-14 19:37:50.952126+01:00,16.5,1719,5,896,UK,Cambridge,dessert
 2015-06-17 14:26:06.173283+01:00,17.15,1719,6,1253,UK,Cambridge,dessert
@@ -31134,7 +30993,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-28 22:13:54.983695+01:00,17.0,1219,3,347,UK,London,italian
 2015-06-16 21:32:11.246036+01:00,17.3,3190,4,569,UK,London,healthy
 2015-06-17 13:49:54.407132+01:00,19.1,3190,3,1283,UK,London,healthy
-2015-06-17 19:13:11.282149+01:00,82.45,3190,11,64675,UK,London,healthy
 2015-06-17 20:08:53.807985+01:00,25.05,3190,6,725,UK,London,healthy
 2015-06-18 14:24:45.722610+01:00,22.95,3190,2,1767,UK,London,healthy
 2015-06-18 20:03:43.599964+01:00,27.0,3190,5,60,UK,London,healthy
@@ -31153,7 +31011,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-23 22:23:14.356680+01:00,15.5,3190,3,30,UK,London,healthy
 2015-06-24 12:32:37.402614+01:00,87.75,3190,10,2680,UK,London,healthy
 2015-06-25 13:39:27.954988+01:00,22.45,3190,4,1354,UK,London,healthy
-2015-06-25 18:18:32.741409+01:00,68.35,3190,8,67363,UK,London,healthy
 2015-06-25 22:06:56.539484+01:00,16.4,3190,4,10,UK,London,healthy
 2015-06-25 22:44:46.919578+01:00,32.3,3190,7,56,UK,London,healthy
 2015-06-26 11:47:56.445594+01:00,85.45,3190,12,4405,UK,London,healthy
@@ -31214,7 +31071,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-17 19:33:27.863087+01:00,27.0,3156,4,1966,UK,Edinburgh,italian
 2015-06-18 20:13:37.171092+01:00,24.6,3156,2,1508,UK,Edinburgh,italian
 2015-06-19 15:09:33.201280+01:00,82.05,3156,4,13776,UK,Edinburgh,italian
-2015-06-19 15:13:58.721044+01:00,82.05,3156,4,15226,UK,Edinburgh,italian
 2015-06-20 21:01:20.623739+01:00,22.4,3156,2,1589,UK,Edinburgh,italian
 2015-06-23 23:52:29.670628+01:00,15.7,3156,2,654,UK,Edinburgh,italian
 2015-06-29 12:31:11.038412+01:00,17.7,3156,2,3127,UK,Edinburgh,italian
@@ -31223,11 +31079,9 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-30 18:25:22.494174+01:00,25.3,3156,1,6309,UK,Edinburgh,italian
 2015-06-17 20:35:07.142316+02:00,24.49155,3242,3,363,France,Paris,thai
 2015-06-17 20:56:07.447426+02:00,16.68265,3242,2,176,France,Paris,thai
-2015-06-18 14:10:44.497326+02:00,19.1673,3242,4,21750,France,Paris,thai
 2015-06-18 20:59:05.451579+02:00,14.55295,3242,2,19,France,Paris,thai
 2015-06-18 22:17:39.156179+02:00,24.8465,3242,3,90,France,Paris,thai
 2015-06-20 20:02:33.759256+02:00,20.5871,3242,2,70,France,Paris,thai
-2015-06-22 13:16:57.633240+02:00,44.36875,3242,5,116038,France,Paris,thai
 2015-06-22 14:09:52.073845+02:00,15.97275,3242,2,554,France,Paris,thai
 2015-06-22 21:44:04.809290+02:00,23.78165,3242,3,2916,France,Paris,thai
 2015-06-24 20:52:31.912597+02:00,12.0683,3242,2,143,France,Paris,thai
@@ -31322,7 +31176,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-18 13:56:34.020025+01:00,11.42939,3169,4,749,Ireland,Dublin,deli
 2015-06-18 15:05:20.254554+01:00,16.05,2111,3,329,UK,London,italian
 2015-06-28 19:07:45.597594+01:00,24.85,2111,4,1179,UK,London,italian
-2015-06-18 15:55:34.779866+01:00,18.2,1942,4,21279,UK,Birmingham,pan asian
 2015-06-25 21:09:38.529106+01:00,22.1,1942,5,1076,UK,Birmingham,pan asian
 2015-06-26 22:17:41.334283+01:00,13.15,1942,2,1314,UK,Birmingham,pan asian
 2015-06-18 16:36:43.334113+01:00,26.9,649,7,369,UK,London,australian
@@ -31608,7 +31461,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-26 15:15:38.808918+01:00,26.1,3324,4,639,UK,London,pan asian
 2015-06-28 18:57:54.082503+01:00,21.3,3324,3,4916,UK,London,pan asian
 2015-06-28 20:17:07.967175+01:00,19.2,3324,2,1430,UK,London,pan asian
-2015-06-29 12:13:50.289085+01:00,18.2,3324,2,28882,UK,London,pan asian
 2015-06-29 15:13:40.949469+01:00,22.0,3324,4,1051,UK,London,pan asian
 2015-06-30 14:31:24.860878+01:00,15.85,3324,2,911,UK,London,pan asian
 2015-06-20 14:16:31.548032+01:00,16.0,1780,3,1172,UK,London,healthy
@@ -31748,14 +31600,12 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-22 19:09:40.424107+02:00,34.075199999999995,3338,5,2945,France,Paris,italian
 2015-06-22 19:23:31.273385+02:00,25.5564,3338,6,5498,France,Paris,italian
 2015-06-23 13:34:36.068194+02:00,21.297,3338,5,226,France,Paris,italian
-2015-06-23 15:18:09.813573+02:00,276.861,3338,6,111836,France,Paris,italian
 2015-06-24 13:34:58.989099+02:00,12.7782,3338,3,61,France,Paris,italian
 2015-06-25 13:15:42.650990+02:00,26.83422,3338,4,2992,France,Paris,italian
 2015-06-28 13:59:26.597361+02:00,12.7782,3338,3,85,France,Paris,italian
 2015-06-28 22:15:51.155642+02:00,14.198,3338,3,110,France,Paris,italian
 2015-06-29 20:11:02.417860+02:00,25.5564,3338,5,75,France,Paris,italian
 2015-06-29 22:00:49.594599+02:00,11.00345,3338,2,473,France,Paris,italian
-2015-06-30 18:47:25.906525+02:00,302.4174,3338,7,100538,France,Paris,italian
 2015-06-22 15:42:45.915720+01:00,6.0,3021,5,257,UK,London,burritos
 2015-06-22 16:20:46.370535+01:00,18.3,3021,13,1429,UK,London,burritos
 2015-06-22 18:27:51.020778+01:00,9.15,3021,9,939,UK,London,burritos
@@ -31886,7 +31736,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-26 13:33:24.904715+01:00,40.2,2932,10,1285,UK,London,chicken
 2015-06-27 14:32:12.927984+01:00,17.5,2932,8,1937,UK,London,chicken
 2015-06-28 13:20:48.379067+01:00,15.35,2932,8,2311,UK,London,chicken
-2015-06-23 15:53:10.984404+01:00,17.8,3441,3,14873,UK,Manchester,korean
 2015-06-24 21:23:55.544702+01:00,23.0,3441,4,1595,UK,Manchester,korean
 2015-06-27 20:46:47.156105+01:00,20.0,3441,3,1235,UK,Manchester,korean
 2015-06-29 20:53:56.492600+01:00,16.4,3441,2,1384,UK,Manchester,korean
@@ -32069,7 +31918,6 @@ order_acknowledged_at,order_value_gbp,restaurant_id,number_of_items,prep_time_se
 2015-06-25 13:58:57.773335+01:00,15.5,3537,1,1948,UK,London,pizza
 2015-06-25 21:19:40.220946+01:00,17.5,3537,2,443,UK,London,pizza
 2015-06-26 13:27:37.904468+01:00,17.1,3537,2,1242,UK,London,pizza
-2015-06-26 14:21:07.058988+01:00,74.5,3537,4,16154,UK,London,pizza
 2015-06-27 23:00:58.119654+01:00,34.5,3537,2,1187,UK,London,pizza
 2015-06-30 21:02:27.037472+01:00,19.5,3537,1,534,UK,London,pizza
 2015-06-30 22:16:54.950263+01:00,17.5,3537,1,1176,UK,London,pizza

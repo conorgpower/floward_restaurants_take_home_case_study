@@ -1,3 +1,5 @@
 pandas
 pandas_profiling
 ipywidgets
+xgboost
+category_encoders
